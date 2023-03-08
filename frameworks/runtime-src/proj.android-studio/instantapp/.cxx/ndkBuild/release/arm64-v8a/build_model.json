@@ -1,0 +1,140 @@
+{
+  "abi": "ARM64_V8A",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/instantapp/.cxx/ndkBuild/release/arm64-v8a",
+  "cxxBuildFolder": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/instantapp/.cxx/ndkBuild/release/arm64-v8a",
+  "abiPlatformVersion": 19,
+  "variant": {
+    "buildSystemArgumentList": [
+      "NDK_TOOLCHAIN_VERSION\u003dclang",
+      "NDK_MODULE_PATH\u003d/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/cocos2d-x:/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/cocos2d-x/cocos:/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/cocos2d-x/external",
+      "-j16",
+      "NDK_DEBUG\u003d0"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "objFolder": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/instantapp/build/intermediates/ndkBuild/release/obj/local",
+    "soFolder": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/instantapp/build/intermediates/ndkBuild/release/lib",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": [
+      "cocos2djs"
+    ],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/instantapp/.cxx",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/instantapp/build/intermediates",
+      "gradleModulePathName": ":instantapp",
+      "moduleRootFolder": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/instantapp",
+      "moduleBuildFile": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/instantapp/build.gradle",
+      "makeFile": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/instantapp/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "/Users/edy/Android/sdk/ndk/24.0.8215888",
+      "ndkVersion": "24.0.8215888",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 19,
+        "max": 32,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31,
+          "Sv2": 32
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "originalCmakeToolchainFile": "/Users/edy/Android/sdk/ndk/24.0.8215888/build/cmake/android.toolchain.cmake",
+      "cmakeToolchainFile": "/Users/edy/Android/sdk/ndk/24.0.8215888/build/cmake/android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/edy/Android/sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/edy/Android/sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/edy/Android/sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/edy/Android/sdk/ndk/24.0.8215888/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio",
+        "cxxFolder": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/.cxx",
+        "compilerSettingsCacheFolder": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/.cxx",
+        "sdkFolder": "/Users/edy/Android/sdk",
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false,
+        "isV2NativeModelEnabled": true
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabDirectory": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/instantapp/.cxx/ndkBuild/release/prefab"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/edy/Documents/GameProjects/audi_package/build/jsb-default/frameworks/runtime-src/proj.android-studio/instantapp/.cxx/ndkBuild/release/prefab/arm64-v8a"
+}

@@ -1,0 +1,15 @@
+<resources>
+<!--    <string name="app_name" translatable="false">Teen Patti Empire</string>-->
+
+    <string name="ad_alert_title" translatable="false">Notice</string>
+    <string name="ad_btn_confirm" translatable="false">Confirm</string>
+    <string name="ad_btn_cancel" translatable="false">Cancel</string>
+<!--    fb config-->
+    <string name="facebook_app_id" translatable="false">901530741273603</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb1234</string>
+    <string name="facebook_client_token" translatable="false">13fd680197aec62088d1b6e6db3ae8e2</string>
+<!--    adjust config-->
+    <string name="adjustToken" translatable="false">hjde5eiub6kg</string>
+    <string name="launchApp" translatable="false">x99cwm</string>
+    <string name="switchTime" translatable="false">2023-02-07 06:00:00</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="pp_darker_gray">#4E454E</color>
+    <color name="pp_gray">#6E626E</color>
+    <color name="pp_white">#FFFFFF</color>
+    <color name="ad_view_divider_color">#FFF4F4F4</color>
+
+    <color name="ad_color_333333">#333333</color>
+    <color name="pp_color_666666">#666666</color>
+    <color name="pp_color_999999">#999999</color>
+    <color name="pp_color_CCCCCC">#CCCCCC</color>
+    <color name="pp_color_FF7CA0">#FF7CA0</color>
+    <color name="pp_color_EEEEEE">#EEEEEE</color>
+    <color name="pp_color_1677FF">#1677FF</color>
+    <color name="pp_color_232323">#232323</color>
+    <color name="pp_color_FFFAF2">#FFFAF2</color>
+    <color name="pp_color_FF0200">#FF0200</color>
+    <color name="pp_color_34CC00">#34CC00</color>
+    <color name="pp_color_F8F8F9">#F8F8F9</color>
+    <color name="pp_color_80F8F8F9">#80F8F8F9</color>
+    <color name="pp_color_F0F0F0">#F0F0F0</color>
+</resources>

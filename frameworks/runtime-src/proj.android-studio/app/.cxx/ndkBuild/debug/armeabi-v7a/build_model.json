@@ -1,0 +1,140 @@
+{
+  "abi": "ARMEABI_V7A",
+  "info": {
+    "abi": "ARMEABI_V7A",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a",
+  "cxxBuildFolder": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a",
+  "abiPlatformVersion": 19,
+  "variant": {
+    "buildSystemArgumentList": [
+      "NDK_TOOLCHAIN_VERSION\u003dclang",
+      "NDK_MODULE_PATH\u003dF:\\tpGame\\jsb-default\\frameworks\\cocos2d-x;F:\\tpGame\\jsb-default\\frameworks\\cocos2d-x\\cocos;F:\\tpGame\\jsb-default\\frameworks\\cocos2d-x\\external",
+      "-j8",
+      "NDK_DEBUG\u003d1"
+    ],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "objFolder": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "soFolder": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates\\ndkBuild\\debug\\lib",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A"
+    ],
+    "buildTargetSet": [
+      "cocos2djs"
+    ],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\.cxx",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build\\intermediates",
+      "gradleModulePathName": ":ludo",
+      "moduleRootFolder": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app",
+      "moduleBuildFile": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\build.gradle",
+      "makeFile": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\jni\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "F:\\sdk\\ndk\\24.0.8215888",
+      "ndkVersion": "24.0.8215888",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 19,
+        "max": 32,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31,
+          "Sv2": 32
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "originalCmakeToolchainFile": "F:\\sdk\\ndk\\24.0.8215888\\build\\cmake\\android.toolchain.cmake",
+      "cmakeToolchainFile": "F:\\sdk\\ndk\\24.0.8215888\\build\\cmake\\android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "F:\\sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "F:\\sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "F:\\sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "F:\\sdk\\ndk\\24.0.8215888\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio",
+        "cxxFolder": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\.cxx",
+        "compilerSettingsCacheFolder": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\.cxx",
+        "sdkFolder": "F:\\sdk",
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false,
+        "isV2NativeModelEnabled": true
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabDirectory": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\.cxx\\ndkBuild\\debug\\prefab"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "F:\\tpGame\\jsb-default\\frameworks\\runtime-src\\proj.android-studio\\app\\.cxx\\ndkBuild\\debug\\prefab\\armeabi-v7a"
+}
