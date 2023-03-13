@@ -168,6 +168,7 @@ public:
     static void showToast(const std::string& msg);
     static bool checkLocationPermission();
     static std::string getOnlineAppSwitchTime();
+    static std::string getDeviceInfo();
 #endif
 
 private:

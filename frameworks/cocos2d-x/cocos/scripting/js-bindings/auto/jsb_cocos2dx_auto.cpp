@@ -1394,6 +1394,22 @@ static bool js_engine_Device_getOnlineAppSwitchTime(se::State& s)
 }
 SE_BIND_FUNC(js_engine_Device_getOnlineAppSwitchTime)
 
+static bool js_engine_Device_getDeviceInfo(se::State& s)
+{
+    const auto& args = s.args();
+    size_t argc = args.size();
+    CC_UNUSED bool ok = true;
+    if (argc == 0) {
+        std::string result = cocos2d::Device::getDeviceInfo();
+        ok &= std_string_to_seval(result, &s.rval());
+        SE_PRECONDITION2(ok, false, "js_engine_Device_getDeviceInfo : Error processing arguments");
+        return true;
+    }
+    SE_REPORT_ERROR("wrong number of arguments: %d, was expecting %d", (int)argc, 0);
+    return false;
+}
+SE_BIND_FUNC(js_engine_Device_getDeviceInfo)
+
 static bool js_engine_Device_copyTextToClipboard(se::State& s)
 {
     const auto& args = s.args();
@@ -1477,6 +1493,7 @@ bool js_register_engine_Device(se::Object* obj)
         static void showToast(const std::string& msg);
         static bool checkLocationPermission();
         static std::string getOnlineAppSwitchTime();
+        static std::string getDeviceInfo();
      * */
     cls->defineStaticFunction("getVersion", _SE(js_engine_Device_getVersion));
     cls->defineStaticFunction("getBundleId", _SE(js_engine_Device_getBundleId));
@@ -1492,6 +1509,7 @@ bool js_register_engine_Device(se::Object* obj)
     cls->defineStaticFunction("showToast", _SE(js_engine_Device_showToast));
     cls->defineStaticFunction("checkLocationPermission", _SE(js_engine_Device_checkLocationPermission));
     cls->defineStaticFunction("getOnlineAppSwitchTime", _SE(js_engine_Device_getOnlineAppSwitchTime));
+    cls->defineStaticFunction("getDeviceInfo", _SE(js_engine_Device_getDeviceInfo));
 #endif
 
     cls->install();

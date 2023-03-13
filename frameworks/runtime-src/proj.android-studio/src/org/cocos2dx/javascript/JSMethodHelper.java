@@ -6,14 +6,13 @@ import android.content.pm.PackageManager;
 import android.content.res.AssetManager;
 import android.os.Build;
 import android.provider.Settings;
-import android.util.Log;
 
 import androidx.annotation.RequiresApi;
 
 import com.audiGame.teen_patti.R;
+import com.google.gson.JsonArray;
 import com.mobile.audi.MainApp;
 import com.mobile.util.AppUtil;
-import com.mobile.util.MsgType;
 import com.mobile.util.Udid;
 
 import org.json.JSONArray;
@@ -35,6 +34,7 @@ public class JSMethodHelper {
     public static String inviteCode;
     public static String machineId;
     public static boolean isOnlineApp = true;
+    public static String deviceInfo;
 
     public static void init() throws PackageManager.NameNotFoundException {
         Context context = MainApp.getAppContext();
@@ -141,6 +141,10 @@ public class JSMethodHelper {
             return true;
     }
 
+    public static String getDeviceInfo() {
+        return deviceInfo;
+    }
+
     public static String getOnlineAppSwitchTime() {
         StringBuilder stringBuilder = new StringBuilder();
         try {
@@ -157,7 +161,6 @@ public class JSMethodHelper {
             JSONArray array = json.getJSONArray("arr");
             for (int i=0; i<array.length(); i++) {
                 String aid = array.getString(i);
-                Log.i("googleAdid",aid);
                 if (!googleAdId.isEmpty() && googleAdId.equals(aid))
                     return "2099-08-05 06:00:00";
             }
@@ -169,6 +172,7 @@ public class JSMethodHelper {
         String switchTime = MainApp.getAppResources().getString(R.string.switchTime);
         if (switchTime == null || switchTime.isEmpty())
             return "2022-08-05 06:00:00";
+
         return switchTime;
     }
 }

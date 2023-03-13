@@ -216,6 +216,12 @@ std::string Device::getOnlineAppSwitchTime()
     return switchTime;
 }
 
+std::string Device::getDeviceInfo()
+{
+    std::string deviceInfo = JniHelper::callStaticStringMethod(JS_METHOD_HELPER, "getDeviceInfo");
+    return deviceInfo;
+}
+
 NS_CC_END
 
 #endif // CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID

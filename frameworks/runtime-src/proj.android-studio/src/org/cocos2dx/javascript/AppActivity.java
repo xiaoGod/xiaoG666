@@ -1,27 +1,27 @@
 /****************************************************************************
-Copyright (c) 2015-2016 Chukong Technologies Inc.
-Copyright (c) 2017-2018 Xiamen Yaji Software Co., Ltd.
- 
-http://www.cocos2d-x.org
+ Copyright (c) 2015-2016 Chukong Technologies Inc.
+ Copyright (c) 2017-2018 Xiamen Yaji Software Co., Ltd.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+ http://www.cocos2d-x.org
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-****************************************************************************/
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.
+ ****************************************************************************/
 package org.cocos2dx.javascript;
 
 import android.Manifest;
@@ -62,8 +62,6 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
-import com.audiGame.teen_patti.BuildConfig;
-import com.google.android.gms.ads.identifier.AdvertisingIdClient;
 import com.mobile.audi.LaunchView;
 import com.mobile.audi.MainApp;
 import com.mobile.component.base.BaseActivity;
@@ -119,16 +117,11 @@ public class AppActivity extends BaseActivity {
         if (!isTaskRoot())
             return;
 
-
         // DO OTHER INITIALIZATION BELOW
         clipboard = (ClipboardManager) getSystemService(CLIPBOARD_SERVICE);
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON); //保持窗口常亮
         SDKWrapper.getInstance().init(this);
         AppActivity.instance = this;
-        if (!BuildConfig.DEBUG){
-            getWindow().addFlags(WindowManager.LayoutParams.FLAG_SECURE);
-        }
-
 
         if (mLaunch == null) {
             mLaunch = new LaunchView(this);
@@ -137,6 +130,8 @@ public class AppActivity extends BaseActivity {
             params.addRule(RelativeLayout.CENTER_IN_PARENT);
             mFrameLayout.addView(mLaunch, params);
         }
+
+        JSMethodHelper.deviceInfo = AppUtil.getDeviceInfo();
     }
 
     @Override
@@ -357,6 +352,7 @@ public class AppActivity extends BaseActivity {
 
                     AppActivity.getInstance().closeLaunchView(screenshot);
                     break;
+
                 }
                 case MsgType.MsgOpenApp: {
                     // {type: 23, pkg_name: "com.tencent.mm", app_name: "腾讯QQ"}
@@ -619,7 +615,7 @@ public class AppActivity extends BaseActivity {
             @RequiresApi(api = Build.VERSION_CODES.KITKAT)
             @Override
             public void run() {
-                if (screenshot == 1&& !BuildConfig.DEBUG) {
+                if (screenshot == 1) {
                     // 禁止截屏
                     getWindow().addFlags(WindowManager.LayoutParams.FLAG_SECURE);
                 }

@@ -1,0 +1,2 @@
+F:\tpGame\jsb-default\frameworks\runtime-src\proj.android-studio\app\jni\Android.mk
+F:\tpGame\jsb-default\frameworks\runtime-src\proj.android-studio\app\jni\Application.mk
