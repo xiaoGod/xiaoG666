@@ -1,0 +1,130 @@
+ۏd_slots_freespins_frame.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_slots_freespins_burning_06
+  rotate: true
+  xy: 527, 141
+  size: 323, 91
+  orig: 323, 91
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_burning_07
+  rotate: true
+  xy: 827, 668
+  size: 323, 91
+  orig: 323, 91
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_burning_08
+  rotate: false
+  xy: 0, 0
+  size: 323, 91
+  orig: 323, 91
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_burning_09
+  rotate: true
+  xy: 619, 141
+  size: 323, 91
+  orig: 323, 91
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_burning_10
+  rotate: true
+  xy: 919, 668
+  size: 323, 91
+  orig: 323, 91
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_burning_11
+  rotate: true
+  xy: 711, 141
+  size: 323, 91
+  orig: 323, 91
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_burning_12
+  rotate: true
+  xy: 803, 141
+  size: 323, 91
+  orig: 323, 91
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_burning_13
+  rotate: false
+  xy: 527, 49
+  size: 323, 91
+  orig: 323, 91
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_burning_14
+  rotate: true
+  xy: 895, 344
+  size: 323, 91
+  orig: 323, 91
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_burning_15
+  rotate: true
+  xy: 895, 20
+  size: 323, 91
+  orig: 323, 91
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_frame_00
+  rotate: false
+  xy: 0, 692
+  size: 526, 299
+  orig: 526, 299
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_frame_01
+  rotate: false
+  xy: 0, 392
+  size: 526, 299
+  orig: 526, 299
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_frame_02
+  rotate: true
+  xy: 527, 465
+  size: 526, 299
+  orig: 526, 299
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_frame_03
+  rotate: false
+  xy: 0, 92
+  size: 526, 299
+  orig: 526, 299
+  offset: 0, 0
+  index: -1
+
+ani_slots_freespins_frame2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_slots_freespins_frame_04
+  rotate: false
+  xy: 0, 300
+  size: 526, 299
+  orig: 526, 299
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_frame_05
+  rotate: false
+  xy: 0, 0
+  size: 526, 299
+  orig: 526, 299
+  offset: 0, 0
+  index: -1
+ani_slots_freespins_frame_06
+  rotate: true
+  xy: 527, 73
+  size: 526, 299
+  orig: 526, 299
+  offset: 0, 0
+  index: -1

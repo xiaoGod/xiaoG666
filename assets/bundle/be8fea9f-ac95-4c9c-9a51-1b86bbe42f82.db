@@ -1,0 +1,130 @@
+ۏd_xxl_js_win.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_xxl_js_win_gt
+  rotate: true
+  xy: 769, 393
+  size: 373, 118
+  orig: 373, 118
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_gt2
+  rotate: false
+  xy: 485, 159
+  size: 340, 108
+  orig: 340, 108
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_gy
+  rotate: false
+  xy: 769, 768
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_gy2
+  rotate: false
+  xy: 594, 8
+  size: 204, 149
+  orig: 204, 149
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_xx
+  rotate: false
+  xy: 769, 340
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_xxb1
+  rotate: false
+  xy: 800, 26
+  size: 215, 96
+  orig: 215, 96
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_xxb3
+  rotate: true
+  xy: 889, 406
+  size: 242, 64
+  orig: 242, 64
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_xzg
+  rotate: false
+  xy: 2, 340
+  size: 765, 670
+  orig: 765, 670
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_xzg2
+  rotate: false
+  xy: 2, 31
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_ziti1
+  rotate: false
+  xy: 311, 2
+  size: 281, 155
+  orig: 281, 155
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_ziti2
+  rotate: true
+  xy: 879, 124
+  size: 267, 112
+  orig: 267, 112
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_zt2
+  rotate: false
+  xy: 485, 269
+  size: 392, 69
+  orig: 392, 69
+  offset: 0, 0
+  index: -1
+ani_xxl_xiaochu_quan1
+  rotate: true
+  xy: 889, 650
+  size: 116, 111
+  orig: 116, 111
+  offset: 0, 0
+  index: -1
+ani_xxl_xiaochu_quan2
+  rotate: false
+  xy: 311, 166
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+ani_xxl_xiaochu_xx
+  rotate: true
+  xy: 822, 361
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+
+ani_xxl_js_win2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_xxl_js_win_xxb2
+  rotate: false
+  xy: 2, 2
+  size: 300, 64
+  orig: 300, 64
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_zt_yz
+  rotate: false
+  xy: 2, 68
+  size: 331, 154
+  orig: 331, 154
+  offset: 0, 0
+  index: -1

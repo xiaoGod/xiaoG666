@@ -1,0 +1,138 @@
+ۏd_slots_tx_xyc.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_slots_xyc_beishu1
+  rotate: false
+  xy: 483, 452
+  size: 308, 52
+  orig: 308, 52
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_di1
+  rotate: false
+  xy: 556, 325
+  size: 123, 125
+  orig: 123, 125
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_di2
+  rotate: false
+  xy: 2, 16
+  size: 184, 178
+  orig: 184, 178
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_di3
+  rotate: false
+  xy: 681, 333
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_gb
+  rotate: false
+  xy: 770, 430
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_gg
+  rotate: false
+  xy: 2, 196
+  size: 245, 253
+  orig: 245, 253
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_ksg1
+  rotate: false
+  xy: 413, 308
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_shuidi
+  rotate: false
+  xy: 2, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_tx
+  rotate: false
+  xy: 249, 279
+  size: 162, 170
+  orig: 162, 170
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_xx1
+  rotate: true
+  xy: 725, 335
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_xx2
+  rotate: false
+  xy: 852, 470
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_zhuti1
+  rotate: false
+  xy: 188, 139
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_zhuti2
+  rotate: true
+  xy: 793, 449
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_zhuti3
+  rotate: false
+  xy: 188, 77
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_zhuti4
+  rotate: true
+  xy: 188, 17
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_zhuti5
+  rotate: false
+  xy: 413, 280
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_zhuti_bai
+  rotate: false
+  xy: 681, 365
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_zs_tx1
+  rotate: false
+  xy: 249, 125
+  size: 157, 152
+  orig: 157, 152
+  offset: 0, 0
+  index: -1
+ani_slots_xyc_zs_zt
+  rotate: false
+  xy: 2, 451
+  size: 479, 53
+  orig: 479, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,96 @@
+ۏd_slots_tx_777.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_slots_777_di1
+  rotate: false
+  xy: 755, 118
+  size: 119, 125
+  orig: 119, 125
+  offset: 0, 0
+  index: -1
+ani_slots_777_di2
+  rotate: false
+  xy: 439, 102
+  size: 171, 141
+  orig: 171, 141
+  offset: 0, 0
+  index: -1
+ani_slots_777_gg
+  rotate: false
+  xy: 2, 2
+  size: 271, 241
+  orig: 271, 241
+  offset: 0, 0
+  index: -1
+ani_slots_777_gy
+  rotate: false
+  xy: 275, 41
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+ani_slots_777_ksg1
+  rotate: false
+  xy: 612, 102
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+ani_slots_777_tx
+  rotate: false
+  xy: 275, 73
+  size: 162, 170
+  orig: 162, 170
+  offset: 0, 0
+  index: -1
+ani_slots_777_xx1
+  rotate: true
+  xy: 876, 118
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+ani_slots_777_xx2
+  rotate: true
+  xy: 275, 2
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+ani_slots_777_zhuti1
+  rotate: false
+  xy: 876, 146
+  size: 87, 97
+  orig: 87, 97
+  offset: 0, 0
+  index: -1
+ani_slots_777_zhuti2
+  rotate: false
+  xy: 965, 179
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+ani_slots_777_zhuti2_yz
+  rotate: false
+  xy: 348, 36
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+ani_slots_777_zhuti3
+  rotate: false
+  xy: 965, 113
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+ani_slots_777_zhuti3_yz
+  rotate: false
+  xy: 439, 74
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1

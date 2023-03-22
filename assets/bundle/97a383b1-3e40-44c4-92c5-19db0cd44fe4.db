@@ -1,0 +1,103 @@
+ڏd_slots_tx_putao.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_slots_putao_di1
+  rotate: false
+  xy: 260, 80
+  size: 165, 167
+  orig: 165, 167
+  offset: 0, 0
+  index: -1
+ani_slots_putao_di2
+  rotate: false
+  xy: 694, 181
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+ani_slots_putao_di3
+  rotate: false
+  xy: 784, 178
+  size: 82, 69
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+ani_slots_putao_di4
+  rotate: true
+  xy: 353, 10
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+ani_slots_putao_di5
+  rotate: false
+  xy: 260, 8
+  size: 91, 70
+  orig: 91, 70
+  offset: 0, 0
+  index: -1
+ani_slots_putao_gg
+  rotate: true
+  xy: 2, 2
+  size: 245, 256
+  orig: 245, 256
+  offset: 0, 0
+  index: -1
+ani_slots_putao_shuidi
+  rotate: false
+  xy: 680, 127
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ani_slots_putao_tx
+  rotate: true
+  xy: 427, 85
+  size: 162, 170
+  orig: 162, 170
+  offset: 0, 0
+  index: -1
+ani_slots_putao_xx1
+  rotate: false
+  xy: 949, 201
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+ani_slots_putao_xx2
+  rotate: false
+  xy: 694, 148
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+ani_slots_putao_zhuti1
+  rotate: false
+  xy: 599, 141
+  size: 93, 106
+  orig: 93, 106
+  offset: 0, 0
+  index: -1
+ani_slots_putao_zhuti2
+  rotate: false
+  xy: 599, 80
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+ani_slots_putao_zhuti3
+  rotate: false
+  xy: 353, 30
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+ani_slots_putao_zhuti4
+  rotate: false
+  xy: 868, 177
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1

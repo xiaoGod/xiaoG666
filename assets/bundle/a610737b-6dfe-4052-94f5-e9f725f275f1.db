@@ -1,0 +1,173 @@
+ݏd_xxl_hc.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_xxl_hc_diban
+  rotate: false
+  xy: 0, 399
+  size: 297, 297
+  orig: 297, 297
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_frameglow01
+  rotate: false
+  xy: 0, 697
+  size: 308, 308
+  orig: 308, 308
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_frameglow02
+  rotate: false
+  xy: 309, 710
+  size: 295, 295
+  orig: 295, 295
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_frameglow03
+  rotate: false
+  xy: 0, 0
+  size: 6, 398
+  orig: 6, 398
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_00
+  rotate: false
+  xy: 605, 849
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_01
+  rotate: false
+  xy: 7, 242
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_02
+  rotate: false
+  xy: 762, 849
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_03
+  rotate: false
+  xy: 7, 85
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_04
+  rotate: false
+  xy: 605, 692
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_05
+  rotate: false
+  xy: 762, 692
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_06
+  rotate: false
+  xy: 164, 242
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_07
+  rotate: false
+  xy: 164, 85
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_08
+  rotate: false
+  xy: 309, 553
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_09
+  rotate: false
+  xy: 466, 535
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_10
+  rotate: false
+  xy: 623, 535
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_11
+  rotate: false
+  xy: 780, 535
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_12
+  rotate: false
+  xy: 321, 378
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_13
+  rotate: false
+  xy: 321, 221
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_14
+  rotate: false
+  xy: 478, 378
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_15
+  rotate: false
+  xy: 478, 221
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_16
+  rotate: false
+  xy: 635, 378
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_17
+  rotate: false
+  xy: 635, 221
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_18
+  rotate: false
+  xy: 792, 378
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+ani_xxl_hc_framerun_19
+  rotate: false
+  xy: 792, 221
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,180 @@
+ڏd_bairenab_fireframe.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_bairenab_appear
+  rotate: false
+  xy: 1763, 204
+  size: 93, 124
+  orig: 93, 124
+  offset: 0, 0
+  index: -1
+ani_bairenab_appear_card
+  rotate: false
+  xy: 612, 43
+  size: 82, 114
+  orig: 82, 114
+  offset: 0, 0
+  index: -1
+ani_bairenab_glowblue
+  rotate: false
+  xy: 2, 317
+  size: 773, 133
+  orig: 784, 133
+  offset: 0, 0
+  index: -1
+ani_bairenab_glowred
+  rotate: false
+  xy: 2, 159
+  size: 656, 156
+  orig: 658, 156
+  offset: 1, 0
+  index: -1
+ani_bairenab_spotframe_00
+  rotate: false
+  xy: 777, 182
+  size: 120, 146
+  orig: 120, 155
+  offset: 0, 5
+  index: -1
+ani_bairenab_spotframe_01
+  rotate: true
+  xy: 1199, 208
+  size: 120, 139
+  orig: 120, 155
+  offset: 0, 8
+  index: -1
+ani_bairenab_spotframe_02
+  rotate: true
+  xy: 1340, 208
+  size: 120, 139
+  orig: 120, 155
+  offset: 0, 8
+  index: -1
+ani_bairenab_spotframe_03
+  rotate: true
+  xy: 1481, 208
+  size: 120, 139
+  orig: 120, 155
+  offset: 0, 8
+  index: -1
+ani_bairenab_spotframe_04
+  rotate: true
+  xy: 1622, 208
+  size: 120, 139
+  orig: 120, 155
+  offset: 0, 8
+  index: -1
+ani_bairenab_spotframe_05
+  rotate: true
+  xy: 777, 330
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+ani_bairenab_spotframe_06
+  rotate: false
+  xy: 2, 2
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+ani_bairenab_spotframe_07
+  rotate: true
+  xy: 934, 330
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+ani_bairenab_spotframe_08
+  rotate: false
+  xy: 124, 2
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+ani_bairenab_spotframe_09
+  rotate: true
+  xy: 1091, 330
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+ani_bairenab_spotframe_10
+  rotate: false
+  xy: 246, 2
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+ani_bairenab_spotframe_11
+  rotate: true
+  xy: 1875, 333
+  size: 117, 155
+  orig: 120, 155
+  offset: 2, 0
+  index: -1
+ani_bairenab_spotframe_12
+  rotate: true
+  xy: 899, 220
+  size: 108, 155
+  orig: 120, 155
+  offset: 6, 0
+  index: -1
+ani_bairenab_spotframe_13
+  rotate: false
+  xy: 660, 160
+  size: 115, 155
+  orig: 120, 155
+  offset: 3, 0
+  index: -1
+ani_bairenab_spotframe_14
+  rotate: true
+  xy: 1248, 330
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+ani_bairenab_spotframe_15
+  rotate: false
+  xy: 368, 2
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+ani_bairenab_spotframe_16
+  rotate: true
+  xy: 1405, 330
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+ani_bairenab_spotframe_17
+  rotate: false
+  xy: 490, 2
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+ani_bairenab_spotframe_18
+  rotate: true
+  xy: 1562, 330
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+ani_bairenab_spotframe_19
+  rotate: true
+  xy: 1719, 330
+  size: 120, 154
+  orig: 120, 155
+  offset: 0, 1
+  index: -1
+ani_bairenab_spotframe_20
+  rotate: true
+  xy: 1056, 208
+  size: 120, 141
+  orig: 120, 155
+  offset: 0, 8
+  index: -1

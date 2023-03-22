@@ -1,0 +1,68 @@
+ڏd_slots_tx_lingdang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_slots_lingdang_di1
+  rotate: false
+  xy: 249, 72
+  size: 171, 176
+  orig: 171, 176
+  offset: 0, 0
+  index: -1
+ani_slots_lingdang_di2
+  rotate: false
+  xy: 586, 109
+  size: 132, 139
+  orig: 132, 139
+  offset: 0, 0
+  index: -1
+ani_slots_lingdang_gg
+  rotate: false
+  xy: 2, 2
+  size: 245, 246
+  orig: 245, 246
+  offset: 0, 0
+  index: -1
+ani_slots_lingdang_ksg
+  rotate: false
+  xy: 422, 78
+  size: 162, 170
+  orig: 162, 170
+  offset: 0, 0
+  index: -1
+ani_slots_lingdang_xx1
+  rotate: true
+  xy: 586, 78
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+ani_slots_lingdang_xx2
+  rotate: true
+  xy: 720, 110
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+ani_slots_lingdang_zhuti1
+  rotate: false
+  xy: 720, 139
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+ani_slots_lingdang_zhuti2
+  rotate: true
+  xy: 249, 14
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+ani_slots_lingdang_zhuti3
+  rotate: false
+  xy: 822, 186
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,89 @@
+܏d_rk_dh2_horseracing.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_horse_bj
+  rotate: false
+  xy: 2, 58
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+ani_horse_cd1
+  rotate: false
+  xy: 491, 134
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+ani_horse_cd2
+  rotate: false
+  xy: 634, 174
+  size: 144, 80
+  orig: 144, 80
+  offset: 0, 0
+  index: -1
+ani_horse_cd3
+  rotate: false
+  xy: 491, 168
+  size: 141, 86
+  orig: 141, 86
+  offset: 0, 0
+  index: -1
+ani_horse_gy1
+  rotate: false
+  xy: 97, 17
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+ani_horse_gy3
+  rotate: true
+  xy: 780, 173
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+ani_horse_jb1
+  rotate: false
+  xy: 200, 68
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+ani_horse_jb2
+  rotate: false
+  xy: 955, 222
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+ani_horse_mt
+  rotate: false
+  xy: 351, 130
+  size: 138, 124
+  orig: 183, 194
+  offset: 0, 27
+  index: -1
+ani_horse_yuankuang
+  rotate: false
+  xy: 200, 106
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: -1
+ani_horse_zt
+  rotate: false
+  xy: 780, 215
+  size: 173, 39
+  orig: 173, 39
+  offset: 0, 0
+  index: -1
+ani_horse_zt2
+  rotate: false
+  xy: 2, 2
+  size: 93, 54
+  orig: 93, 54
+  offset: 0, 0
+  index: -1

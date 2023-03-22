@@ -1,0 +1,75 @@
+ۏd_rk_dh_Baccarat3patti.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_B3_bj
+  rotate: false
+  xy: 2, 39
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+ani_B3_p1
+  rotate: false
+  xy: 200, 96
+  size: 95, 139
+  orig: 95, 139
+  offset: 0, 0
+  index: -1
+ani_B3_p2
+  rotate: false
+  xy: 297, 101
+  size: 95, 134
+  orig: 95, 134
+  offset: 0, 0
+  index: -1
+ani_B3_sd1
+  rotate: false
+  xy: 200, 52
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+ani_B3_sd2
+  rotate: false
+  xy: 436, 79
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+ani_B3_sd3
+  rotate: false
+  xy: 475, 103
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+ani_B3_sd4
+  rotate: false
+  xy: 253, 53
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+ani_B3_vs
+  rotate: false
+  xy: 436, 137
+  size: 72, 98
+  orig: 72, 98
+  offset: 0, 0
+  index: -1
+ani_B3_zt
+  rotate: false
+  xy: 2, 2
+  size: 173, 35
+  orig: 173, 35
+  offset: 0, 0
+  index: -1
+ani_B3_zt2
+  rotate: true
+  xy: 394, 70
+  size: 165, 40
+  orig: 165, 40
+  offset: 0, 0
+  index: -1

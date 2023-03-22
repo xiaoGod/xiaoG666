@@ -1,0 +1,103 @@
+ڏd_rk_dh_ludo.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_rk_ludo_bj
+  rotate: false
+  xy: 2, 56
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_dp
+  rotate: true
+  xy: 365, 95
+  size: 157, 90
+  orig: 157, 90
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_gy1
+  rotate: false
+  xy: 2, 6
+  size: 126, 48
+  orig: 126, 48
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_qz1
+  rotate: true
+  xy: 130, 7
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_qz2
+  rotate: true
+  xy: 350, 2
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_qz3
+  rotate: true
+  xy: 385, 3
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_qz4
+  rotate: false
+  xy: 457, 207
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_tz1
+  rotate: false
+  xy: 281, 24
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_tz2
+  rotate: false
+  xy: 200, 23
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_tz2_tx
+  rotate: false
+  xy: 200, 100
+  size: 163, 152
+  orig: 163, 152
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_tz2_yz
+  rotate: false
+  xy: 350, 35
+  size: 102, 58
+  orig: 102, 58
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_yz1
+  rotate: true
+  xy: 426, 6
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_yz2
+  rotate: true
+  xy: 457, 170
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+ani_rk_ludo_ziti
+  rotate: true
+  xy: 454, 13
+  size: 80, 44
+  orig: 80, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,173 @@
+ڏd_hd_pannel_check_yellow.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_hd_yzk_reward_bk
+  rotate: false
+  xy: 134, 4
+  size: 130, 152
+  orig: 130, 152
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_00
+  rotate: false
+  xy: 2, 782
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_21
+  rotate: false
+  xy: 2, 782
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_01
+  rotate: false
+  xy: 2, 626
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_02
+  rotate: false
+  xy: 134, 782
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_03
+  rotate: false
+  xy: 2, 470
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_04
+  rotate: false
+  xy: 134, 626
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_05
+  rotate: false
+  xy: 266, 782
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_06
+  rotate: false
+  xy: 2, 314
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_07
+  rotate: false
+  xy: 134, 470
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_08
+  rotate: false
+  xy: 266, 626
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_09
+  rotate: false
+  xy: 398, 782
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_10
+  rotate: false
+  xy: 2, 158
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_11
+  rotate: false
+  xy: 134, 314
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_12
+  rotate: false
+  xy: 266, 470
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_13
+  rotate: false
+  xy: 398, 626
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_14
+  rotate: false
+  xy: 530, 782
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_15
+  rotate: false
+  xy: 2, 2
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_16
+  rotate: false
+  xy: 134, 158
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_17
+  rotate: false
+  xy: 266, 314
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_18
+  rotate: false
+  xy: 398, 470
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_19
+  rotate: false
+  xy: 530, 626
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_sg_20
+  rotate: false
+  xy: 662, 782
+  size: 130, 154
+  orig: 130, 154
+  offset: 0, 0
+  index: -1
+ani_hd_yzk_reward_yellow
+  rotate: false
+  xy: 266, 176
+  size: 110, 136
+  orig: 110, 136
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,82 @@
+܏d_slots_tx_pingguo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_slots_pingguo_di
+  rotate: false
+  xy: 260, 75
+  size: 168, 172
+  orig: 168, 172
+  offset: 0, 0
+  index: -1
+ani_slots_pingguo_di2
+  rotate: false
+  xy: 594, 132
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+ani_slots_pingguo_di3
+  rotate: false
+  xy: 260, 35
+  size: 93, 38
+  orig: 93, 38
+  offset: 0, 0
+  index: -1
+ani_slots_pingguo_ksg
+  rotate: true
+  xy: 2, 2
+  size: 245, 256
+  orig: 245, 256
+  offset: 0, 0
+  index: -1
+ani_slots_pingguo_shuidi
+  rotate: true
+  xy: 711, 133
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+ani_slots_pingguo_tx
+  rotate: false
+  xy: 430, 77
+  size: 162, 170
+  orig: 162, 170
+  offset: 0, 0
+  index: -1
+ani_slots_pingguo_xx1
+  rotate: true
+  xy: 260, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+ani_slots_pingguo_xx2
+  rotate: false
+  xy: 820, 211
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+ani_slots_pingguo_zhuti1
+  rotate: false
+  xy: 594, 101
+  size: 87, 29
+  orig: 87, 29
+  offset: 0, 0
+  index: -1
+ani_slots_pingguo_zhuti2
+  rotate: false
+  xy: 355, 39
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+ani_slots_pingguo_zhuti3
+  rotate: false
+  xy: 711, 149
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1

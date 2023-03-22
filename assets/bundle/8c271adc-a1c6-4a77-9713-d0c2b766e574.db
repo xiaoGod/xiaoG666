@@ -1,0 +1,159 @@
+ۏd_ludo_win.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_ludo_win_cd01
+  rotate: false
+  xy: 312, 268
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+ani_ludo_win_cd02
+  rotate: false
+  xy: 259, 313
+  size: 79, 102
+  orig: 79, 102
+  offset: 0, 0
+  index: -1
+ani_ludo_win_cd03
+  rotate: false
+  xy: 354, 469
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+ani_ludo_win_cd04
+  rotate: false
+  xy: 234, 211
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+ani_ludo_win_cd05
+  rotate: false
+  xy: 354, 432
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+ani_ludo_win_dxx1
+  rotate: false
+  xy: 260, 227
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+ani_ludo_win_dxx2
+  rotate: false
+  xy: 22, 3
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ani_ludo_win_dxx3
+  rotate: false
+  xy: 234, 184
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+ani_ludo_win_dxx4
+  rotate: false
+  xy: 425, 467
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+ani_ludo_win_gy
+  rotate: false
+  xy: 259, 417
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+ani_ludo_win_gyd
+  rotate: false
+  xy: 2, 23
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+ani_ludo_win_ksg
+  rotate: false
+  xy: 2, 255
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+ani_ludo_win_sp01
+  rotate: true
+  xy: 2, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+ani_ludo_win_sp02
+  rotate: false
+  xy: 293, 241
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+ani_ludo_win_sp03
+  rotate: false
+  xy: 312, 253
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+ani_ludo_win_sp04
+  rotate: false
+  xy: 260, 211
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+ani_ludo_win_sp05
+  rotate: false
+  xy: 234, 175
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+ani_ludo_win_sp06
+  rotate: false
+  xy: 354, 420
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+ani_ludo_win_sp07
+  rotate: false
+  xy: 415, 456
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+ani_ludo_win_sp08
+  rotate: false
+  xy: 340, 398
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+ani_ludo_win_ssxx
+  rotate: false
+  xy: 259, 261
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+ani_ludo_win_xx1
+  rotate: false
+  xy: 472, 474
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1

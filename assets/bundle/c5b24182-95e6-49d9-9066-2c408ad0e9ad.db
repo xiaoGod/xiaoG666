@@ -1,0 +1,159 @@
+܏dleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic/ani_godcow_title_00
+  rotate: false
+  xy: 2, 706
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_01
+  rotate: false
+  xy: 359, 772
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_02
+  rotate: false
+  xy: 2, 642
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_03
+  rotate: false
+  xy: 2, 578
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_04
+  rotate: false
+  xy: 2, 514
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_05
+  rotate: false
+  xy: 2, 450
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_06
+  rotate: false
+  xy: 2, 386
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_07
+  rotate: false
+  xy: 2, 322
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_08
+  rotate: false
+  xy: 2, 258
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_09
+  rotate: false
+  xy: 2, 194
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_10
+  rotate: false
+  xy: 2, 130
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_11
+  rotate: false
+  xy: 2, 66
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_12
+  rotate: false
+  xy: 2, 2
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_13
+  rotate: true
+  xy: 357, 415
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_14
+  rotate: true
+  xy: 357, 60
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_15
+  rotate: true
+  xy: 421, 417
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_16
+  rotate: true
+  xy: 421, 62
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_17
+  rotate: true
+  xy: 485, 417
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_18
+  rotate: true
+  xy: 485, 62
+  size: 353, 62
+  orig: 353, 62
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_di
+  rotate: false
+  xy: 2, 836
+  size: 730, 133
+  orig: 730, 133
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_glow1
+  rotate: false
+  xy: 734, 901
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+pic/ani_godcow_title_zi
+  rotate: false
+  xy: 2, 770
+  size: 355, 64
+  orig: 355, 64
+  offset: 0, 0
+  index: -1

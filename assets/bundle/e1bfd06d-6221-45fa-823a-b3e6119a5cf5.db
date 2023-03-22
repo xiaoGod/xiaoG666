@@ -1,0 +1,54 @@
+ڏd_ls_ssc_zttx.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_ssc_zttx_di
+  rotate: false
+  xy: 2, 81
+  size: 295, 45
+  orig: 295, 45
+  offset: 0, 0
+  index: -1
+ani_ssc_zttx_gy
+  rotate: false
+  xy: 315, 2
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+ani_ssc_zttx_sg
+  rotate: false
+  xy: 214, 31
+  size: 99, 48
+  orig: 99, 48
+  offset: 0, 0
+  index: -1
+ani_ssc_zttx_zt1
+  rotate: false
+  xy: 315, 55
+  size: 108, 38
+  orig: 108, 38
+  offset: 0, 0
+  index: -1
+ani_ssc_zttx_zt2
+  rotate: false
+  xy: 2, 5
+  size: 158, 31
+  orig: 158, 31
+  offset: 0, 0
+  index: -1
+ani_ssc_zttx_zt3
+  rotate: false
+  xy: 2, 38
+  size: 210, 41
+  orig: 210, 41
+  offset: 0, 0
+  index: -1
+ani_ssc_zttx_zt4
+  rotate: false
+  xy: 299, 95
+  size: 199, 31
+  orig: 199, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,172 @@
+ۏdgment_title.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_hd_sn_fragment_Streamer
+  rotate: false
+  xy: 2, 849
+  size: 762, 160
+  orig: 762, 160
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_stars
+  rotate: false
+  xy: 548, 233
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title
+  rotate: false
+  xy: 2, 772
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_00
+  rotate: false
+  xy: 2, 695
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_01
+  rotate: false
+  xy: 2, 618
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_02
+  rotate: false
+  xy: 2, 541
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_03
+  rotate: false
+  xy: 2, 464
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_04
+  rotate: false
+  xy: 2, 387
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_05
+  rotate: false
+  xy: 2, 310
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_06
+  rotate: false
+  xy: 2, 233
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_07
+  rotate: true
+  xy: 548, 303
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_08
+  rotate: false
+  xy: 2, 156
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_09
+  rotate: true
+  xy: 625, 303
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_10
+  rotate: false
+  xy: 2, 79
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_11
+  rotate: false
+  xy: 2, 2
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_12
+  rotate: true
+  xy: 702, 303
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_13
+  rotate: true
+  xy: 779, 465
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_14
+  rotate: true
+  xy: 856, 465
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_15
+  rotate: true
+  xy: 933, 465
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+
+fragment_title2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_16
+  rotate: false
+  xy: 2, 233
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_17
+  rotate: false
+  xy: 2, 156
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_18
+  rotate: false
+  xy: 2, 79
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1
+ani_hd_sn_fragment_title/ani_hd_sn_fragment_title_19
+  rotate: false
+  xy: 2, 2
+  size: 544, 75
+  orig: 544, 75
+  offset: 0, 0
+  index: -1

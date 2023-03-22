@@ -1,0 +1,61 @@
+ۏd_rk_dh_7updown.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_7UD_bj
+  rotate: false
+  xy: 2, 39
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+ani_7UD_jb
+  rotate: false
+  xy: 305, 138
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+ani_7UD_jb2
+  rotate: false
+  xy: 161, 13
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+ani_7UD_tx
+  rotate: false
+  xy: 375, 133
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+ani_7UD_tz1
+  rotate: false
+  xy: 200, 133
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+ani_7UD_tz2
+  rotate: false
+  xy: 200, 53
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+ani_7UD_zt
+  rotate: false
+  xy: 305, 193
+  size: 138, 42
+  orig: 138, 42
+  offset: 0, 0
+  index: -1
+ani_7UD_zt2
+  rotate: false
+  xy: 2, 2
+  size: 157, 35
+  orig: 157, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,61 @@
+܏d_rk_dh_Inbetween.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_IB_bj
+  rotate: false
+  xy: 2, 58
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+ani_IB_jb
+  rotate: false
+  xy: 338, 219
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+ani_IB_jb2
+  rotate: false
+  xy: 162, 16
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+ani_IB_m
+  rotate: false
+  xy: 200, 2
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+ani_IB_p
+  rotate: false
+  xy: 200, 120
+  size: 136, 134
+  orig: 136, 134
+  offset: 0, 0
+  index: -1
+ani_IB_tx
+  rotate: false
+  xy: 275, 45
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+ani_IB_zt
+  rotate: false
+  xy: 2, 14
+  size: 158, 42
+  orig: 158, 42
+  offset: 0, 0
+  index: -1
+ani_IB_zt2
+  rotate: false
+  xy: 200, 78
+  size: 129, 40
+  orig: 129, 40
+  offset: 0, 0
+  index: -1

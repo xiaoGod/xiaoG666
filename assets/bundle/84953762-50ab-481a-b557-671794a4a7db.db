@@ -1,0 +1,201 @@
+ۏd_kairajakai_rolldice.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_7ud_star
+  rotate: false
+  xy: 2, 139
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+ani_kairajakai_dice_1-1
+  rotate: false
+  xy: 178, 2
+  size: 80, 86
+  orig: 92, 88
+  offset: 6, 2
+  index: -1
+ani_kairajakai_dice_1-2
+  rotate: true
+  xy: 474, 88
+  size: 82, 85
+  orig: 92, 88
+  offset: 5, 3
+  index: -1
+ani_kairajakai_dice_1-3
+  rotate: false
+  xy: 2, 55
+  size: 92, 82
+  orig: 92, 88
+  offset: 0, 3
+  index: -1
+ani_kairajakai_dice_1-4
+  rotate: false
+  xy: 588, 174
+  size: 88, 80
+  orig: 92, 88
+  offset: 2, 5
+  index: -1
+ani_kairajakai_dice_2-1
+  rotate: false
+  xy: 260, 2
+  size: 80, 86
+  orig: 92, 88
+  offset: 6, 2
+  index: -1
+ani_kairajakai_dice_2-2
+  rotate: true
+  xy: 424, 4
+  size: 82, 85
+  orig: 92, 88
+  offset: 5, 3
+  index: -1
+ani_kairajakai_dice_2-3
+  rotate: false
+  xy: 118, 172
+  size: 92, 82
+  orig: 92, 88
+  offset: 0, 3
+  index: -1
+ani_kairajakai_dice_2-4
+  rotate: false
+  xy: 678, 174
+  size: 88, 80
+  orig: 92, 88
+  offset: 2, 5
+  index: -1
+ani_kairajakai_dice_3-1
+  rotate: true
+  xy: 298, 90
+  size: 80, 86
+  orig: 92, 88
+  offset: 6, 2
+  index: -1
+ani_kairajakai_dice_3-2
+  rotate: true
+  xy: 511, 4
+  size: 82, 85
+  orig: 92, 88
+  offset: 5, 3
+  index: -1
+ani_kairajakai_dice_3-3
+  rotate: false
+  xy: 212, 172
+  size: 92, 82
+  orig: 92, 88
+  offset: 0, 3
+  index: -1
+ani_kairajakai_dice_3-4
+  rotate: false
+  xy: 768, 174
+  size: 88, 80
+  orig: 92, 88
+  offset: 2, 5
+  index: -1
+ani_kairajakai_dice_4-1
+  rotate: false
+  xy: 342, 2
+  size: 80, 86
+  orig: 92, 88
+  offset: 6, 2
+  index: -1
+ani_kairajakai_dice_4-2
+  rotate: true
+  xy: 561, 88
+  size: 82, 85
+  orig: 92, 88
+  offset: 5, 3
+  index: -1
+ani_kairajakai_dice_4-3
+  rotate: false
+  xy: 306, 172
+  size: 92, 82
+  orig: 92, 88
+  offset: 0, 3
+  index: -1
+ani_kairajakai_dice_4-4
+  rotate: false
+  xy: 858, 174
+  size: 88, 80
+  orig: 92, 88
+  offset: 2, 5
+  index: -1
+ani_kairajakai_dice_5-1
+  rotate: true
+  xy: 386, 90
+  size: 80, 86
+  orig: 92, 88
+  offset: 6, 2
+  index: -1
+ani_kairajakai_dice_5-2
+  rotate: true
+  xy: 648, 90
+  size: 82, 85
+  orig: 92, 88
+  offset: 5, 3
+  index: -1
+ani_kairajakai_dice_5-3
+  rotate: false
+  xy: 400, 172
+  size: 92, 82
+  orig: 92, 88
+  offset: 0, 3
+  index: -1
+ani_kairajakai_dice_5-4
+  rotate: false
+  xy: 118, 90
+  size: 88, 80
+  orig: 92, 88
+  offset: 2, 5
+  index: -1
+ani_kairajakai_dice_6-1
+  rotate: false
+  xy: 96, 2
+  size: 80, 86
+  orig: 92, 88
+  offset: 6, 2
+  index: -1
+ani_kairajakai_dice_6-2
+  rotate: true
+  xy: 735, 90
+  size: 82, 85
+  orig: 92, 88
+  offset: 5, 3
+  index: -1
+ani_kairajakai_dice_6-3
+  rotate: false
+  xy: 494, 172
+  size: 92, 82
+  orig: 92, 88
+  offset: 0, 3
+  index: -1
+ani_kairajakai_dice_6-4
+  rotate: false
+  xy: 208, 90
+  size: 88, 80
+  orig: 92, 88
+  offset: 2, 5
+  index: -1
+ani_kairajakai_dice_z1
+  rotate: false
+  xy: 948, 179
+  size: 61, 75
+  orig: 61, 75
+  offset: 0, 0
+  index: -1
+ani_kairajakai_dice_z2
+  rotate: false
+  xy: 822, 100
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+ani_kairajakai_dice_z3
+  rotate: false
+  xy: 886, 102
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1

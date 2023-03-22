@@ -1,0 +1,82 @@
+ُd_slots_tx_juzi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_slots_juzi_di
+  rotate: false
+  xy: 424, 86
+  size: 159, 161
+  orig: 159, 161
+  offset: 0, 0
+  index: -1
+ani_slots_juzi_di2
+  rotate: false
+  xy: 585, 86
+  size: 159, 161
+  orig: 159, 161
+  offset: 0, 0
+  index: -1
+ani_slots_juzi_di3
+  rotate: false
+  xy: 260, 34
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+ani_slots_juzi_gx1
+  rotate: true
+  xy: 2, 2
+  size: 245, 256
+  orig: 245, 256
+  offset: 0, 0
+  index: -1
+ani_slots_juzi_sdi
+  rotate: false
+  xy: 975, 228
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+ani_slots_juzi_tx
+  rotate: false
+  xy: 260, 77
+  size: 162, 170
+  orig: 162, 170
+  offset: 0, 0
+  index: -1
+ani_slots_juzi_xx1
+  rotate: false
+  xy: 344, 41
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+ani_slots_juzi_xx2
+  rotate: true
+  xy: 260, 3
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+ani_slots_juzi_zhuti1
+  rotate: false
+  xy: 746, 86
+  size: 159, 161
+  orig: 159, 161
+  offset: 0, 0
+  index: -1
+ani_slots_juzi_zhuti2
+  rotate: false
+  xy: 907, 185
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+ani_slots_juzi_zhuti3
+  rotate: false
+  xy: 907, 214
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1

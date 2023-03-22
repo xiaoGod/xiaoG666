@@ -1,0 +1,152 @@
+܏d_ludo_stop.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic/ani_ludo_capture_xx
+  rotate: false
+  xy: 92, 23
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_square
+  rotate: false
+  xy: 246, 179
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_square1
+  rotate: false
+  xy: 786, 272
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_stop
+  rotate: false
+  xy: 92, 59
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_stop2
+  rotate: false
+  xy: 292, 189
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_stop3
+  rotate: false
+  xy: 786, 236
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_stop4
+  rotate: false
+  xy: 832, 282
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_triangle
+  rotate: false
+  xy: 2, 95
+  size: 133, 67
+  orig: 133, 67
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_triangle2
+  rotate: false
+  xy: 2, 164
+  size: 242, 183
+  orig: 242, 183
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_triangle3
+  rotate: false
+  xy: 552, 318
+  size: 233, 183
+  orig: 233, 183
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_triangle4
+  rotate: false
+  xy: 787, 318
+  size: 233, 183
+  orig: 233, 183
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_triangle5
+  rotate: false
+  xy: 317, 318
+  size: 233, 183
+  orig: 233, 183
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_waikuang
+  rotate: false
+  xy: 2, 349
+  size: 313, 152
+  orig: 313, 152
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_yanwu10
+  rotate: false
+  xy: 2, 2
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_yanwu11
+  rotate: true
+  xy: 137, 74
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_yanwu12
+  rotate: false
+  xy: 246, 225
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_yanwu13
+  rotate: false
+  xy: 336, 225
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_yanwu14
+  rotate: false
+  xy: 426, 225
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_yanwu15
+  rotate: false
+  xy: 516, 225
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_yanwu16
+  rotate: false
+  xy: 606, 225
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+pic/ani_ludo_stop_yanwu17
+  rotate: false
+  xy: 696, 225
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1

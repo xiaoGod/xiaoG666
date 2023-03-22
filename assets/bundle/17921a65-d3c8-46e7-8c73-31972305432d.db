@@ -1,0 +1,61 @@
+ڏd_hs_fxq.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_hs_tz0
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+ani_hs_tz1
+  rotate: false
+  xy: 126, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+ani_hs_tz2
+  rotate: false
+  xy: 250, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+ani_hs_tz3
+  rotate: false
+  xy: 374, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+ani_hs_tz4
+  rotate: false
+  xy: 498, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+ani_hs_tz5
+  rotate: false
+  xy: 622, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+ani_hs_tz6
+  rotate: false
+  xy: 746, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+ani_hs_tz8
+  rotate: false
+  xy: 870, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

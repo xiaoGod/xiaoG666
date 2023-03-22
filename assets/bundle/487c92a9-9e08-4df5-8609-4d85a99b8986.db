@@ -1,0 +1,68 @@
+ڏd_ls_bonus_xz.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_ls_bonus_fsg
+  rotate: false
+  xy: 2, 120
+  size: 490, 360
+  orig: 490, 360
+  offset: 0, 0
+  index: -1
+ani_ls_bonus_gy
+  rotate: true
+  xy: 846, 252
+  size: 228, 105
+  orig: 228, 105
+  offset: 0, 0
+  index: -1
+ani_ls_bonus_jb
+  rotate: true
+  xy: 786, 38
+  size: 194, 93
+  orig: 194, 93
+  offset: 0, 0
+  index: -1
+ani_ls_bonus_jb2
+  rotate: true
+  xy: 881, 94
+  size: 156, 98
+  orig: 156, 98
+  offset: 0, 0
+  index: -1
+ani_ls_bonus_jb3
+  rotate: false
+  xy: 361, 33
+  size: 129, 85
+  orig: 129, 85
+  offset: 0, 0
+  index: -1
+ani_ls_bonus_xx
+  rotate: false
+  xy: 953, 424
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+ani_ls_bonus_xz
+  rotate: false
+  xy: 494, 2
+  size: 290, 230
+  orig: 290, 230
+  offset: 0, 0
+  index: -1
+ani_ls_bonus_xz2
+  rotate: false
+  xy: 494, 234
+  size: 350, 246
+  orig: 350, 246
+  offset: 0, 0
+  index: -1
+ani_ls_bonus_xzd
+  rotate: false
+  xy: 2, 2
+  size: 357, 116
+  orig: 357, 116
+  offset: 0, 0
+  index: -1

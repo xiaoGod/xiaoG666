@@ -1,0 +1,47 @@
+ݏd_rk_dh_Baccaratab.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_BAB_bj
+  rotate: false
+  xy: 2, 46
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+ani_BAB_jb1
+  rotate: true
+  xy: 200, 53
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+ani_BAB_jb2
+  rotate: false
+  xy: 340, 158
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+ani_BAB_p
+  rotate: false
+  xy: 200, 97
+  size: 138, 145
+  orig: 138, 145
+  offset: 0, 0
+  index: -1
+ani_BAB_zt
+  rotate: false
+  xy: 2, 2
+  size: 168, 42
+  orig: 168, 42
+  offset: 0, 0
+  index: -1
+ani_BAB_zt2
+  rotate: false
+  xy: 340, 200
+  size: 162, 42
+  orig: 162, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+ۏd_101_champion.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_101_no1_ksg
+  rotate: false
+  xy: 2, 2
+  size: 302, 98
+  orig: 306, 102
+  offset: 2, 2
+  index: -1

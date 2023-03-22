@@ -1,0 +1,82 @@
+܏d_rk_dh_podblind.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_rk_dh_podblind_coin1
+  rotate: false
+  xy: 297, 3
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+ani_rk_dh_podblind_coin2
+  rotate: false
+  xy: 476, 146
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+ani_rk_dh_podblind_coin3
+  rotate: true
+  xy: 420, 141
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+ani_rk_dh_podblind_diban
+  rotate: false
+  xy: 0, 48
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+ani_rk_dh_podblind_glow
+  rotate: false
+  xy: 420, 182
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+ani_rk_dh_podblind_poker1
+  rotate: true
+  xy: 306, 147
+  size: 97, 113
+  orig: 97, 113
+  offset: 0, 0
+  index: -1
+ani_rk_dh_podblind_poker1_1
+  rotate: true
+  xy: 291, 48
+  size: 83, 34
+  orig: 83, 34
+  offset: 0, 0
+  index: -1
+ani_rk_dh_podblind_poker2
+  rotate: true
+  xy: 197, 48
+  size: 83, 93
+  orig: 83, 93
+  offset: 0, 0
+  index: -1
+ani_rk_dh_podblind_poker3
+  rotate: false
+  xy: 197, 132
+  size: 108, 112
+  orig: 108, 112
+  offset: 0, 0
+  index: -1
+ani_rk_dh_podblind_zi
+  rotate: false
+  xy: 150, 4
+  size: 146, 43
+  orig: 146, 43
+  offset: 0, 0
+  index: -1
+ani_rk_dh_podblind_zi2
+  rotate: false
+  xy: 0, 0
+  size: 149, 47
+  orig: 149, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+ݏd_ls_ssc_txk.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_ls_ssc_txk_dise
+  rotate: false
+  xy: 153, 97
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+ani_ls_ssc_txk_ssk
+  rotate: false
+  xy: 2, 2
+  size: 149, 175
+  orig: 149, 175
+  offset: 0, 0
+  index: -1

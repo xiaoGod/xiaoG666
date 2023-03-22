@@ -1,0 +1,313 @@
+ۏd_hd_ico_card.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_hd_card_hezi_sg01
+  rotate: false
+  xy: 244, 110
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg02
+  rotate: false
+  xy: 351, 217
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg03
+  rotate: false
+  xy: 486, 411
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg04
+  rotate: false
+  xy: 587, 459
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg05
+  rotate: false
+  xy: 244, 62
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg06
+  rotate: false
+  xy: 351, 169
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg07
+  rotate: false
+  xy: 486, 363
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg08
+  rotate: false
+  xy: 587, 411
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg09
+  rotate: false
+  xy: 688, 459
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg10
+  rotate: false
+  xy: 486, 315
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg11
+  rotate: false
+  xy: 587, 363
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg12
+  rotate: false
+  xy: 688, 411
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg13
+  rotate: false
+  xy: 789, 459
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg14
+  rotate: false
+  xy: 486, 267
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg15
+  rotate: false
+  xy: 587, 315
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg16
+  rotate: false
+  xy: 688, 363
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg17
+  rotate: false
+  xy: 789, 411
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg18
+  rotate: false
+  xy: 890, 459
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg19
+  rotate: false
+  xy: 587, 267
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_hezi_sg20
+  rotate: false
+  xy: 486, 459
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg01
+  rotate: false
+  xy: 688, 303
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg02
+  rotate: false
+  xy: 789, 351
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg03
+  rotate: false
+  xy: 890, 399
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg04
+  rotate: false
+  xy: 244, 2
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg05
+  rotate: false
+  xy: 688, 243
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg06
+  rotate: false
+  xy: 766, 291
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg07
+  rotate: false
+  xy: 766, 231
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg08
+  rotate: true
+  xy: 452, 187
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg09
+  rotate: false
+  xy: 512, 207
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg10
+  rotate: false
+  xy: 590, 207
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg11
+  rotate: false
+  xy: 867, 339
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg12
+  rotate: false
+  xy: 844, 279
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg13
+  rotate: false
+  xy: 844, 219
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg14
+  rotate: true
+  xy: 922, 261
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg15
+  rotate: false
+  xy: 945, 339
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg16
+  rotate: false
+  xy: 922, 201
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg17
+  rotate: false
+  xy: 512, 147
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg18
+  rotate: false
+  xy: 590, 147
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg19
+  rotate: false
+  xy: 668, 183
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_sg20
+  rotate: true
+  xy: 452, 109
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_xx
+  rotate: false
+  xy: 244, 158
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+ico_card_diamond
+  rotate: false
+  xy: 2, 265
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+ico_card_gold
+  rotate: false
+  xy: 2, 23
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+ico_card_silver
+  rotate: false
+  xy: 244, 265
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1

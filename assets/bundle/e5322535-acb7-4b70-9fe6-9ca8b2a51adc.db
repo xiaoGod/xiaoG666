@@ -1,0 +1,75 @@
+ڏd_rk_dh_BigBattle.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_bb_bj
+  rotate: false
+  xy: 2, 41
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+ani_bb_h
+  rotate: false
+  xy: 300, 114
+  size: 94, 123
+  orig: 94, 123
+  offset: 0, 0
+  index: -1
+ani_bb_l
+  rotate: false
+  xy: 200, 97
+  size: 98, 140
+  orig: 109, 140
+  offset: 11, 0
+  index: -1
+ani_bb_sd1
+  rotate: false
+  xy: 462, 188
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+ani_bb_sd2
+  rotate: false
+  xy: 200, 45
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+ani_bb_sd3
+  rotate: false
+  xy: 462, 108
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+ani_bb_sd4
+  rotate: false
+  xy: 248, 54
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+ani_bb_sd5
+  rotate: true
+  xy: 462, 135
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+ani_bb_zt3
+  rotate: false
+  xy: 2, 2
+  size: 171, 37
+  orig: 171, 37
+  offset: 0, 0
+  index: -1
+ani_bb_zt4
+  rotate: true
+  xy: 396, 92
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1

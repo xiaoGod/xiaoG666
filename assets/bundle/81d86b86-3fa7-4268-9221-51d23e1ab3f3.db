@@ -1,0 +1,54 @@
+ڏd_kairajakai_win.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_kairajakai_winx_2
+  rotate: false
+  xy: 293, 64
+  size: 170, 58
+  orig: 171, 58
+  offset: 0, 0
+  index: -1
+ani_kairajakai_winx_3
+  rotate: false
+  xy: 293, 5
+  size: 171, 57
+  orig: 171, 57
+  offset: 0, 0
+  index: -1
+ani_kairajakai_winx_4
+  rotate: false
+  xy: 293, 124
+  size: 193, 58
+  orig: 193, 58
+  offset: 0, 0
+  index: -1
+ani_kairajakai_winx_5
+  rotate: false
+  xy: 293, 184
+  size: 200, 58
+  orig: 200, 58
+  offset: 0, 0
+  index: -1
+ani_kairajakai_winx_6
+  rotate: false
+  xy: 2, 2
+  size: 225, 58
+  orig: 225, 58
+  offset: 0, 0
+  index: -1
+ani_kairajakai_winx_ball
+  rotate: false
+  xy: 229, 40
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ani_kairajakai_winxp_glow
+  rotate: false
+  xy: 2, 62
+  size: 289, 180
+  orig: 289, 180
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,229 @@
+܏d_ls_hd_banqiu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_ls_hd_banqiu_boom
+  rotate: false
+  xy: 411, 38
+  size: 181, 76
+  orig: 181, 76
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_l_shou1
+  rotate: false
+  xy: 2, 130
+  size: 109, 275
+  orig: 109, 275
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_l_shou2
+  rotate: false
+  xy: 625, 309
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_qiu1
+  rotate: false
+  xy: 604, 621
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_qiu2
+  rotate: false
+  xy: 604, 513
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_st
+  rotate: true
+  xy: 587, 820
+  size: 188, 194
+  orig: 188, 194
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_tou
+  rotate: false
+  xy: 580, 413
+  size: 86, 98
+  orig: 86, 98
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_tui
+  rotate: false
+  xy: 2, 407
+  size: 343, 264
+  orig: 343, 264
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_tx_gs
+  rotate: true
+  xy: 347, 427
+  size: 244, 41
+  orig: 244, 41
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_tx_guangyun1
+  rotate: false
+  xy: 113, 216
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_tx_guangyun2
+  rotate: false
+  xy: 387, 817
+  size: 198, 191
+  orig: 198, 191
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_tx_za1
+  rotate: true
+  xy: 625, 236
+  size: 71, 97
+  orig: 71, 97
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_tx_za2
+  rotate: false
+  xy: 668, 414
+  size: 71, 97
+  orig: 71, 97
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_tx_za3
+  rotate: false
+  xy: 587, 729
+  size: 169, 89
+  orig: 169, 89
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_shou1
+  rotate: true
+  xy: 712, 578
+  size: 149, 45
+  orig: 149, 45
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_shou2
+  rotate: true
+  xy: 2, 16
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_shou3
+  rotate: false
+  xy: 712, 531
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng01
+  rotate: false
+  xy: 387, 710
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng02
+  rotate: false
+  xy: 783, 903
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng03
+  rotate: false
+  xy: 113, 109
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng04
+  rotate: false
+  xy: 783, 796
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng05
+  rotate: true
+  xy: 390, 520
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng06
+  rotate: true
+  xy: 497, 520
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng07
+  rotate: false
+  xy: 390, 413
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng08
+  rotate: true
+  xy: 304, 217
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng09
+  rotate: true
+  xy: 411, 223
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng10
+  rotate: true
+  xy: 518, 223
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng11
+  rotate: false
+  xy: 110, 2
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng12
+  rotate: false
+  xy: 411, 116
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_w_yancheng13
+  rotate: true
+  xy: 304, 27
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+ani_ls_hd_banqiu_yz
+  rotate: true
+  xy: 973, 817
+  size: 191, 24
+  orig: 191, 24
+  offset: 0, 0
+  index: -1
+ani_xxl_js_win_xzg
+  rotate: false
+  xy: 2, 673
+  size: 383, 335
+  orig: 383, 335
+  offset: 0, 0
+  index: -1

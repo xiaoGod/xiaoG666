@@ -1,0 +1,40 @@
+܏d_xxl_red.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_xxl_red_st1
+  rotate: false
+  xy: 2, 45
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+ani_xxl_red_st2
+  rotate: false
+  xy: 76, 45
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+ani_xxl_red_yj1
+  rotate: false
+  xy: 2, 18
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+ani_xxl_red_yj2
+  rotate: false
+  xy: 150, 92
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+ani_xxl_red_zb
+  rotate: false
+  xy: 2, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

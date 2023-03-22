@@ -1,0 +1,61 @@
+ۏd_rk_dh_teenpatti.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_TP_bj
+  rotate: false
+  xy: 2, 58
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+ani_TP_jb1
+  rotate: true
+  xy: 200, 2
+  size: 90, 79
+  orig: 90, 79
+  offset: 0, 0
+  index: -1
+ani_TP_jb2
+  rotate: false
+  xy: 422, 205
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+ani_TP_jb3
+  rotate: true
+  xy: 148, 2
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+ani_TP_p
+  rotate: false
+  xy: 200, 136
+  size: 143, 118
+  orig: 143, 118
+  offset: 0, 0
+  index: -1
+ani_TP_tx
+  rotate: false
+  xy: 345, 174
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+ani_TP_zt
+  rotate: false
+  xy: 2, 14
+  size: 144, 42
+  orig: 144, 42
+  offset: 0, 0
+  index: -1
+ani_TP_zt2
+  rotate: false
+  xy: 200, 94
+  size: 129, 40
+  orig: 129, 40
+  offset: 0, 0
+  index: -1

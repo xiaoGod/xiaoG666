@@ -1,0 +1,166 @@
+ڏd_videopoker_win.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_lhj_sj_sg01
+  rotate: false
+  xy: 2, 610
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg02
+  rotate: false
+  xy: 459, 929
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg03
+  rotate: false
+  xy: 2, 518
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg04
+  rotate: false
+  xy: 459, 837
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg05
+  rotate: false
+  xy: 2, 426
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg06
+  rotate: false
+  xy: 459, 745
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg07
+  rotate: false
+  xy: 2, 334
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg08
+  rotate: false
+  xy: 2, 242
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg09
+  rotate: false
+  xy: 2, 150
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg10
+  rotate: false
+  xy: 2, 58
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg11
+  rotate: true
+  xy: 368, 336
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg12
+  rotate: true
+  xy: 460, 379
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg13
+  rotate: true
+  xy: 552, 379
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg14
+  rotate: true
+  xy: 644, 379
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg15
+  rotate: true
+  xy: 736, 379
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg16
+  rotate: false
+  xy: 460, 287
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg17
+  rotate: false
+  xy: 460, 195
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg18
+  rotate: false
+  xy: 460, 103
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg19
+  rotate: false
+  xy: 460, 11
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_lhj_sj_sg20
+  rotate: true
+  xy: 826, 13
+  size: 364, 90
+  orig: 364, 90
+  offset: 0, 0
+  index: -1
+ani_videopoker_win_db
+  rotate: true
+  xy: 368, 2
+  size: 332, 90
+  orig: 332, 90
+  offset: 0, 0
+  index: -1
+ani_videopoker_win_gy
+  rotate: false
+  xy: 2, 702
+  size: 455, 317
+  orig: 455, 317
+  offset: 0, 0
+  index: -1
+ani_videopoker_win_zt
+  rotate: true
+  xy: 828, 667
+  size: 352, 89
+  orig: 352, 89
+  offset: 0, 0
+  index: -1

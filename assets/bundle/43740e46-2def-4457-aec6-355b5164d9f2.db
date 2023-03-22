@@ -1,0 +1,61 @@
+ݏd_rk_dh_Rummy.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_RM_bj
+  rotate: false
+  xy: 2, 53
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+ani_RM_jb1
+  rotate: false
+  xy: 144, 2
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+ani_RM_jb2
+  rotate: false
+  xy: 464, 210
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+ani_RM_p
+  rotate: false
+  xy: 200, 144
+  size: 148, 105
+  orig: 148, 105
+  offset: 0, 0
+  index: -1
+ani_RM_tx
+  rotate: false
+  xy: 350, 174
+  size: 112, 75
+  orig: 112, 75
+  offset: 0, 0
+  index: -1
+ani_RM_zt
+  rotate: false
+  xy: 350, 128
+  size: 115, 44
+  orig: 115, 44
+  offset: 0, 0
+  index: -1
+ani_RM_zt2
+  rotate: false
+  xy: 2, 6
+  size: 140, 45
+  orig: 140, 45
+  offset: 0, 0
+  index: -1
+ani_RM_zz
+  rotate: false
+  xy: 200, 54
+  size: 134, 88
+  orig: 134, 88
+  offset: 0, 0
+  index: -1

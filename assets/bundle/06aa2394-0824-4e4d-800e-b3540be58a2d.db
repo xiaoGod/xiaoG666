@@ -1,0 +1,110 @@
+ڏd_dvst_fire.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_d&t_fire01
+  rotate: false
+  xy: 2, 227
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire02
+  rotate: false
+  xy: 2, 2
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire03
+  rotate: false
+  xy: 260, 227
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire04
+  rotate: false
+  xy: 260, 2
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire05
+  rotate: false
+  xy: 518, 227
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire06
+  rotate: false
+  xy: 518, 2
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire07
+  rotate: false
+  xy: 776, 227
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire08
+  rotate: false
+  xy: 776, 2
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire09
+  rotate: false
+  xy: 1034, 227
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire10
+  rotate: false
+  xy: 1034, 2
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire11
+  rotate: false
+  xy: 1292, 227
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire12
+  rotate: false
+  xy: 1292, 2
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire13
+  rotate: false
+  xy: 1550, 227
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire14
+  rotate: false
+  xy: 1550, 2
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1
+ani_d&t_fire15
+  rotate: true
+  xy: 1808, 194
+  size: 256, 223
+  orig: 256, 223
+  offset: 0, 0
+  index: -1

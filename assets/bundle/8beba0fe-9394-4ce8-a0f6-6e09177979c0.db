@@ -1,0 +1,26 @@
+ۏd_ludo_6d.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_ludo_gy
+  rotate: false
+  xy: 186, 71
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+ani_ludo_k1
+  rotate: false
+  xy: 2, 2
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+ani_ludo_zhezhao
+  rotate: false
+  xy: 102, 18
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1

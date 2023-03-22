@@ -1,0 +1,33 @@
+܏d_bairenab_win.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_bairenab_win_glow
+  rotate: true
+  xy: 403, 2
+  size: 118, 66
+  orig: 118, 66
+  offset: 0, 0
+  index: -1
+ani_bairenab_win_glow_india
+  rotate: false
+  xy: 275, 47
+  size: 126, 73
+  orig: 126, 73
+  offset: 0, 0
+  index: -1
+ani_bairenab_win_win
+  rotate: false
+  xy: 146, 42
+  size: 127, 78
+  orig: 127, 78
+  offset: 0, 0
+  index: -1
+ani_bairenab_win_win_india
+  rotate: false
+  xy: 2, 30
+  size: 142, 90
+  orig: 142, 90
+  offset: 0, 0
+  index: -1

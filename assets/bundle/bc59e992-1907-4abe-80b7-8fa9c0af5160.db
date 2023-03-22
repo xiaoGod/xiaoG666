@@ -1,0 +1,214 @@
+ڏd_lq_congratulations.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_lq_congratulations_gb
+  rotate: false
+  xy: 2, 2
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_gy
+  rotate: true
+  xy: 632, 447
+  size: 523, 87
+  orig: 523, 87
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg01
+  rotate: false
+  xy: 721, 930
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg02
+  rotate: false
+  xy: 174, 178
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg03
+  rotate: false
+  xy: 721, 888
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg04
+  rotate: false
+  xy: 174, 136
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg05
+  rotate: false
+  xy: 721, 846
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg06
+  rotate: false
+  xy: 174, 94
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg07
+  rotate: false
+  xy: 721, 804
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg08
+  rotate: false
+  xy: 174, 52
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg09
+  rotate: false
+  xy: 721, 762
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg10
+  rotate: false
+  xy: 721, 720
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg11
+  rotate: false
+  xy: 721, 678
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg12
+  rotate: false
+  xy: 721, 636
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg13
+  rotate: false
+  xy: 721, 594
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg14
+  rotate: false
+  xy: 721, 552
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg15
+  rotate: false
+  xy: 721, 510
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg16
+  rotate: false
+  xy: 721, 468
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg17
+  rotate: false
+  xy: 721, 426
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg18
+  rotate: false
+  xy: 174, 10
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg19
+  rotate: false
+  xy: 632, 384
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg20
+  rotate: false
+  xy: 632, 342
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg21
+  rotate: false
+  xy: 591, 300
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_sg22
+  rotate: false
+  xy: 591, 258
+  size: 280, 40
+  orig: 280, 40
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_xx
+  rotate: false
+  xy: 2, 50
+  size: 170, 168
+  orig: 170, 168
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_xzg
+  rotate: false
+  xy: 2, 342
+  size: 628, 628
+  orig: 628, 628
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_zt2
+  rotate: false
+  xy: 2, 220
+  size: 587, 120
+  orig: 587, 120
+  offset: 0, 0
+  index: -1
+ani_lq_congratulations_zt3
+  rotate: true
+  xy: 456, 41
+  size: 177, 45
+  orig: 177, 45
+  offset: 0, 0
+  index: -1
+
+ani_lq_congratulations2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_lq_congratulations_bg
+  rotate: false
+  xy: 2, 2
+  size: 780, 399
+  orig: 780, 399
+  offset: 0, 0
+  index: -1

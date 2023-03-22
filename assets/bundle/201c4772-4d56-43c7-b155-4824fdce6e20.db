@@ -1,0 +1,166 @@
+ڏd_voideopoker_Double.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_voideopoker_Double_di
+  rotate: false
+  xy: 2, 157
+  size: 168, 72
+  orig: 168, 72
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_01
+  rotate: false
+  xy: 774, 162
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_02
+  rotate: false
+  xy: 858, 162
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_03
+  rotate: true
+  xy: 942, 147
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_04
+  rotate: false
+  xy: 88, 2
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_05
+  rotate: true
+  xy: 157, 73
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_06
+  rotate: false
+  xy: 226, 93
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_07
+  rotate: false
+  xy: 310, 93
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_08
+  rotate: false
+  xy: 394, 93
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_09
+  rotate: false
+  xy: 478, 93
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_10
+  rotate: false
+  xy: 562, 93
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_11
+  rotate: false
+  xy: 646, 93
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg1_12
+  rotate: false
+  xy: 730, 93
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg2_01
+  rotate: false
+  xy: 2, 88
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg2_02
+  rotate: false
+  xy: 172, 162
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg2_03
+  rotate: false
+  xy: 2, 19
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg2_04
+  rotate: true
+  xy: 88, 71
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg2_05
+  rotate: false
+  xy: 258, 162
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg2_06
+  rotate: false
+  xy: 344, 162
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg2_07
+  rotate: false
+  xy: 430, 162
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg2_08
+  rotate: false
+  xy: 516, 162
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg2_09
+  rotate: false
+  xy: 602, 162
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+ani_voideopoker_Double_sg2_10
+  rotate: false
+  xy: 688, 162
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1

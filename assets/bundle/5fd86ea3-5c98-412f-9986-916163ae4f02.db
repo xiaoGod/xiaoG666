@@ -1,0 +1,180 @@
+ڏd_hd_bg_dailybonuscard.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_hd_bg_title_gy
+  rotate: false
+  xy: 2, 444
+  size: 501, 48
+  orig: 501, 48
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg01
+  rotate: false
+  xy: 2, 410
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg02
+  rotate: false
+  xy: 505, 460
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg03
+  rotate: false
+  xy: 2, 376
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg04
+  rotate: false
+  xy: 2, 342
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg05
+  rotate: false
+  xy: 2, 308
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg06
+  rotate: false
+  xy: 2, 274
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg07
+  rotate: false
+  xy: 2, 240
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg08
+  rotate: false
+  xy: 2, 206
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg09
+  rotate: false
+  xy: 2, 172
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg10
+  rotate: false
+  xy: 2, 138
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg11
+  rotate: true
+  xy: 276, 170
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg12
+  rotate: false
+  xy: 2, 104
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg13
+  rotate: true
+  xy: 310, 170
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg14
+  rotate: false
+  xy: 2, 70
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg15
+  rotate: true
+  xy: 344, 170
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg16
+  rotate: false
+  xy: 2, 36
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg17
+  rotate: true
+  xy: 378, 170
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg18
+  rotate: false
+  xy: 2, 2
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg19
+  rotate: true
+  xy: 412, 170
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg20
+  rotate: true
+  xy: 446, 170
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg21
+  rotate: true
+  xy: 480, 170
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_sg22
+  rotate: true
+  xy: 514, 186
+  size: 272, 32
+  orig: 272, 32
+  offset: 0, 0
+  index: -1
+ani_hd_bg_title_zt
+  rotate: true
+  xy: 548, 191
+  size: 267, 29
+  orig: 267, 29
+  offset: 0, 0
+  index: -1
+ani_hd_card_silver_xx
+  rotate: false
+  xy: 276, 63
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1

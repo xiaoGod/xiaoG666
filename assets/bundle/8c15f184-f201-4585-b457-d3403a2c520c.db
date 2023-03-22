@@ -1,0 +1,473 @@
+ۏd_slots_js1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_slots_js1_diban
+  rotate: false
+  xy: 2, 610
+  size: 620, 395
+  orig: 620, 395
+  offset: 0, 0
+  index: -1
+ani_slots_js1_ds
+  rotate: false
+  xy: 181, 37
+  size: 131, 160
+  orig: 131, 160
+  offset: 0, 0
+  index: -1
+ani_slots_js1_gt
+  rotate: false
+  xy: 181, 508
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+ani_slots_js1_huge
+  rotate: true
+  xy: 2, 12
+  size: 570, 177
+  orig: 570, 177
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg01
+  rotate: true
+  xy: 314, 54
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg02
+  rotate: true
+  xy: 389, 54
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg03
+  rotate: true
+  xy: 464, 54
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg04
+  rotate: true
+  xy: 490, 297
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg78
+  rotate: true
+  xy: 490, 297
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg05
+  rotate: false
+  xy: 490, 222
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg06
+  rotate: true
+  xy: 565, 297
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg07
+  rotate: true
+  xy: 539, 77
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg08
+  rotate: false
+  xy: 539, 2
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg09
+  rotate: true
+  xy: 614, 77
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg10
+  rotate: false
+  xy: 635, 222
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg11
+  rotate: false
+  xy: 684, 2
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg12
+  rotate: true
+  xy: 689, 77
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg84
+  rotate: true
+  xy: 689, 77
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg13
+  rotate: true
+  xy: 764, 77
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg20
+  rotate: false
+  xy: 829, 2
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg21
+  rotate: true
+  xy: 640, 315
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg22
+  rotate: true
+  xy: 715, 315
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg23
+  rotate: false
+  xy: 780, 240
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg24
+  rotate: true
+  xy: 790, 315
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg25
+  rotate: true
+  xy: 865, 315
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg26
+  rotate: true
+  xy: 940, 315
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg27
+  rotate: true
+  xy: 839, 95
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg28
+  rotate: true
+  xy: 914, 95
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_win
+  rotate: false
+  xy: 583, 460
+  size: 378, 122
+  orig: 378, 122
+  offset: 0, 0
+  index: -1
+ani_slots_js2_bjg
+  rotate: true
+  xy: 624, 584
+  size: 421, 384
+  orig: 421, 384
+  offset: 0, 0
+  index: -1
+ani_slots_js2_laba2
+  rotate: false
+  xy: 490, 442
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+ani_slots_js2_txg2
+  rotate: false
+  xy: 963, 525
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+ani_slots_js3_xzg
+  rotate: false
+  xy: 181, 199
+  size: 307, 307
+  orig: 307, 307
+  offset: 0, 0
+  index: -1
+
+ani_slots_js12.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_slots_js1_sg29
+  rotate: true
+  xy: 2, 77
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg30
+  rotate: false
+  xy: 274, 426
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg31
+  rotate: false
+  xy: 419, 426
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg32
+  rotate: false
+  xy: 564, 426
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg51
+  rotate: false
+  xy: 709, 426
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg52
+  rotate: false
+  xy: 854, 426
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg53
+  rotate: false
+  xy: 274, 351
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg54
+  rotate: false
+  xy: 419, 351
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg55
+  rotate: false
+  xy: 564, 351
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg56
+  rotate: false
+  xy: 709, 351
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg57
+  rotate: false
+  xy: 854, 351
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg58
+  rotate: true
+  xy: 77, 77
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg59
+  rotate: false
+  xy: 2, 2
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg60
+  rotate: false
+  xy: 136, 276
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg61
+  rotate: false
+  xy: 281, 276
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg62
+  rotate: false
+  xy: 426, 276
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg63
+  rotate: false
+  xy: 571, 276
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg64
+  rotate: false
+  xy: 716, 276
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg71
+  rotate: false
+  xy: 861, 276
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg72
+  rotate: false
+  xy: 152, 201
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg73
+  rotate: false
+  xy: 152, 126
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg74
+  rotate: false
+  xy: 297, 201
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg75
+  rotate: false
+  xy: 297, 126
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg76
+  rotate: false
+  xy: 442, 201
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg77
+  rotate: false
+  xy: 442, 126
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg79
+  rotate: false
+  xy: 587, 201
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg80
+  rotate: false
+  xy: 587, 126
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg81
+  rotate: false
+  xy: 732, 201
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg82
+  rotate: false
+  xy: 732, 126
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js1_sg83
+  rotate: true
+  xy: 877, 131
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+ani_slots_js2_bjg2
+  rotate: false
+  xy: 2, 363
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+ani_slots_js2_laba1
+  rotate: false
+  xy: 140, 366
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+ani_slots_js2_xx
+  rotate: false
+  xy: 2, 222
+  size: 132, 139
+  orig: 132, 139
+  offset: 0, 0
+  index: -1

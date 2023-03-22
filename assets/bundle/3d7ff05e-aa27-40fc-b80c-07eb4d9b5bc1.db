@@ -1,0 +1,54 @@
+ݏd_ls_sn_rk.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_ls_sn_rk_bg
+  rotate: false
+  xy: 2, 53
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+ani_ls_sn_rk_coin01
+  rotate: true
+  xy: 2, 2
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+ani_ls_sn_rk_coin02
+  rotate: false
+  xy: 25, 11
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+ani_ls_sn_rk_cow
+  rotate: false
+  xy: 92, 59
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+ani_ls_sn_rk_cow-yingzi
+  rotate: true
+  xy: 216, 78
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+ani_ls_sn_rk_word
+  rotate: false
+  xy: 2, 31
+  size: 85, 20
+  orig: 85, 20
+  offset: 0, 0
+  index: -1
+ani_ls_sn_rk_xx
+  rotate: false
+  xy: 161, 70
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1

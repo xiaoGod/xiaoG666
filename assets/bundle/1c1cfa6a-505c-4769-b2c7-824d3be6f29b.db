@@ -1,0 +1,19 @@
+ۏd_ludo_jtts.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_ludo_jt
+  rotate: false
+  xy: 64, 24
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+ani_ludo_jt2
+  rotate: false
+  xy: 2, 2
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1

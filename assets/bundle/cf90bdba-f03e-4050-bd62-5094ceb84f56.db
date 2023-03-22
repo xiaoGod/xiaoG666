@@ -1,0 +1,33 @@
+ݏd_ludo_stop5.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_ludo_stop_square15
+  rotate: false
+  xy: 0, 0
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+ani_ludo_stop_square5
+  rotate: false
+  xy: 0, 43
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+ani_ludo_stop_stop
+  rotate: false
+  xy: 43, 51
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+ani_ludo_stop_tixing5
+  rotate: false
+  xy: 0, 86
+  size: 128, 29
+  orig: 128, 29
+  offset: 0, 0
+  index: -1

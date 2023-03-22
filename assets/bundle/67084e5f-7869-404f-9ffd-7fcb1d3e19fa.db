@@ -1,0 +1,47 @@
+ݏd_hd_dailyrebate2.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_hd_dailyrebate_gy1
+  rotate: false
+  xy: 2, 25
+  size: 109, 37
+  orig: 109, 37
+  offset: 0, 0
+  index: -1
+ani_hd_dailyrebate_gy2
+  rotate: false
+  xy: 350, 39
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+ani_hd_dailyrebate_xx
+  rotate: true
+  xy: 196, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+ani_hd_dailyrebate_zhuti
+  rotate: false
+  xy: 113, 5
+  size: 81, 57
+  orig: 81, 57
+  offset: 0, 0
+  index: -1
+ani_hd_dailyrebate_zhuti2
+  rotate: false
+  xy: 196, 23
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+ani_hd_dailyrebate_ziti
+  rotate: false
+  xy: 274, 22
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1

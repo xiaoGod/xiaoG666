@@ -1,0 +1,47 @@
+ڏd_ludo_capture.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_ludo_capture_gb1
+  rotate: false
+  xy: 71, 37
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+ani_ludo_capture_gb2
+  rotate: false
+  xy: 149, 37
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+ani_ludo_capture_sword
+  rotate: true
+  xy: 71, 2
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+ani_ludo_capture_swordlight
+  rotate: false
+  xy: 2, 12
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+ani_ludo_capture_xx
+  rotate: true
+  xy: 142, 5
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+ani_ludo_capture_xx2
+  rotate: false
+  xy: 227, 87
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1

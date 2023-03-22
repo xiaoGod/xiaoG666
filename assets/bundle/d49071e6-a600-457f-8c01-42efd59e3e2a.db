@@ -1,0 +1,19 @@
+܏d_slots_xycjs_glodfly.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_slots_xycjs_goldfly_gold_2
+  rotate: false
+  xy: 0, 0
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+ani_slots_xycjs_goldfly_gold_1
+  rotate: false
+  xy: 0, 0
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

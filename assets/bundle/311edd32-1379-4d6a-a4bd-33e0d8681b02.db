@@ -1,0 +1,138 @@
+ڏd_dh_videopoker_pxtx.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ani_video_zhuti_0
+  rotate: false
+  xy: 0, 261
+  size: 445, 56
+  orig: 445, 56
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_0 (2)
+  rotate: false
+  xy: 372, 213
+  size: 257, 44
+  orig: 257, 44
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_02
+  rotate: false
+  xy: 446, 258
+  size: 286, 56
+  orig: 286, 56
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_03
+  rotate: false
+  xy: 0, 204
+  size: 371, 56
+  orig: 371, 56
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_04
+  rotate: false
+  xy: 0, 147
+  size: 333, 56
+  orig: 333, 56
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_05
+  rotate: false
+  xy: 491, 315
+  size: 306, 56
+  orig: 306, 56
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_06
+  rotate: false
+  xy: 372, 156
+  size: 235, 56
+  orig: 235, 56
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_07
+  rotate: false
+  xy: 876, 344
+  size: 131, 56
+  orig: 131, 56
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_08
+  rotate: false
+  xy: 341, 42
+  size: 206, 56
+  orig: 206, 56
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_09
+  rotate: false
+  xy: 0, 0
+  size: 320, 56
+  orig: 320, 56
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_10
+  rotate: false
+  xy: 343, 99
+  size: 222, 56
+  orig: 222, 56
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_11
+  rotate: false
+  xy: 0, 57
+  size: 340, 44
+  orig: 340, 44
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_11 (2)
+  rotate: false
+  xy: 0, 102
+  size: 342, 44
+  orig: 342, 44
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_dibu
+  rotate: false
+  xy: 0, 399
+  size: 561, 90
+  orig: 561, 90
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_light01
+  rotate: false
+  xy: 562, 401
+  size: 452, 88
+  orig: 452, 88
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_light02
+  rotate: false
+  xy: 733, 258
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+ani_video_zhuti_x2
+  rotate: false
+  xy: 630, 188
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1
+x2-bg
+  rotate: false
+  xy: 0, 318
+  size: 490, 80
+  orig: 490, 80
+  offset: 0, 0
+  index: -1
+x2-png
+  rotate: false
+  xy: 562, 372
+  size: 313, 28
+  orig: 313, 28
+  offset: 0, 0
+  index: -1
