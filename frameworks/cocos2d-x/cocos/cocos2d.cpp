@@ -61,7 +61,7 @@ NS_CC_BEGIN
 
     CC_DLL const char* packageID()
     {
-        return "com.mobile.game111";
+        return "com.mobile.game211";
     }
 
 NS_CC_END
