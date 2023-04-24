@@ -77,6 +77,8 @@ public:
 private:
     virtual bool isFileExistInternal(const std::string& strFilePath) const override;
     virtual bool isDirectoryExistInternal(const std::string& dirPath) const override;
+    virtual bool loadFileListInternal() override;
+    virtual std::string updateFileName(const std::string& fileName) const override;
 
     static AAssetManager* assetmanager;
     static ZipFile* obbfile;

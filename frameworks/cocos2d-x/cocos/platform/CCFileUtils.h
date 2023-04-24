@@ -658,6 +658,7 @@ public:
 
     std::string normalizePath(const std::string& path) const;
     std::string getFileDir(const std::string& path) const;
+    std::string getFileName(const std::string& path) const;
 
 protected:
     /**
@@ -674,6 +675,9 @@ protected:
      *
      */
     virtual bool init();
+
+    virtual bool loadFileListInternal() { return false; };
+    virtual std::string updateFileName(const std::string& fileName) const { return fileName; }
 
     /**
      *  Gets the new filename from the filename lookup dictionary.
@@ -776,6 +780,10 @@ protected:
      */
     virtual void valueMapCompact(ValueMap& valueMap);
     virtual void valueVectorCompact(ValueVector& valueVector);
+
+    bool _hasFileListInternal { false };
+    std::unordered_map<std::string, std::string> _fileListMap;
+    mutable std::unordered_map<std::string, std::string> _fullPathCacheAB;
 };
 
 // end of support group

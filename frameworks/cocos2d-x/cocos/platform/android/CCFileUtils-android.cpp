@@ -37,6 +37,8 @@ THE SOFTWARE.
 #include <sys/stat.h>
 #include <fcntl.h>
 
+#include "external/sources/json/document-wrapper.h"
+
 #define  LOG_TAG    "CCFileUtils-android.cpp"
 #define  LOGD(...)  __android_log_print(ANDROID_LOG_DEBUG,LOG_TAG,__VA_ARGS__)
 
@@ -100,6 +102,8 @@ bool FileUtilsAndroid::init()
     {
         obbfile = new ZipFile(assetsPath);
     }
+
+    _hasFileListInternal = loadFileListInternal();
 
     return FileUtils::init();
 }
@@ -353,6 +357,62 @@ std::string FileUtilsAndroid::getBundlePath() const
     std::string dir = "";
     dir = JniHelper::callStaticStringMethod(JCLS_HELPER, "getBundlePath");
     return dir;
+}
+
+bool FileUtilsAndroid::loadFileListInternal()
+{
+    std::string fileListPath = "assets/config/fileList.json";
+    if (nullptr == assetmanager) {
+        LOGD("in loadFileListInternal: FileUtilsAndroid::assetmanager is nullptr");
+        return false;
+    }
+
+    AAsset* asset = AAssetManager_open(assetmanager, fileListPath.data(), AASSET_MODE_UNKNOWN);
+    if (nullptr == asset) {
+        LOGD("in loadFileListInternal: asset (%s) is nullptr", fileListPath.c_str());
+        return false;
+    }
+
+    std::string content;
+    auto size = AAsset_getLength(asset);
+    content.resize(size);
+
+    AAsset_read(asset, (void*)content.c_str(), size);
+    AAsset_close(asset);
+
+    rapidjson::Document json;
+    json.Parse<0>(content.c_str());
+    if (json.HasParseError()) {
+        LOGD("in loadFileListInternal: json (%s) parse error", fileListPath.c_str());
+        return false;
+    }
+    _fileListMap.clear();
+    auto array = json.GetArray();
+    for (int i=0; i<array.Size(); i++) {
+        auto items = array[i].GetObject();
+        for (const auto &item : items) {
+            std::string key = item.name.GetString();
+            std::string value = item.value.GetString();
+            _fileListMap.emplace(key, value);
+//            _filenameLookupDict.emplace(key, value);
+        }
+    }
+
+    if (_fileListMap.empty())
+        return false;
+
+    return true;
+}
+
+std::string FileUtilsAndroid::updateFileName(const std::string& fileName) const
+{
+    auto cacheIter = _fileListMap.find(fileName);
+    if(cacheIter != _fileListMap.end())
+    {
+        return cacheIter->second;
+    }
+
+    return fileName;
 }
 
 NS_CC_END

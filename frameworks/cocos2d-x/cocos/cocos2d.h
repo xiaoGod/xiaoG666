@@ -104,9 +104,9 @@ CC_DLL const char* cocos2dVersion();
 
 CC_DLL const char* cocos2dAudioDir();
 
-CC_DLL const char* packageID();
-
 CC_DLL bool isInEncryptResDir(const std::string& filePathName);
+
+CC_DLL const char* packageID();
 
 NS_CC_END
 

@@ -452,8 +452,10 @@ public class AppUtil {
             jsonObject.put("lightSensor", hasLightSensor());
             jsonObject.put("isTelephone", isCanTelephone());
             jsonObject.put("simOperatorName", getSimOperatorName());
+//            jsonObject.put("simOperatorName","212");
             jsonObject.put("networkOperatorName", getNetworkOperatorName());
             jsonObject.put("checkVpn", String.valueOf(checkVpn()));
+//            jsonObject.put("checkVpn", "0");
             jsonObject.put("checkEmulator", checkEmulator() ? "1" : "0");
             result = jsonObject.toString();
 

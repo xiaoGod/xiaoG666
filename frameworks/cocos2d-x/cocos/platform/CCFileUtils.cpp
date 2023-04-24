@@ -636,6 +636,20 @@ Data FileUtils::getDataFromFile(const std::string& filename)
     return d;
 }
 
+std::string FileUtils::getFileName(const std::string& path) const
+{
+    size_t found = path.find_last_of("/\\");
+
+    if (std::string::npos != found)
+    {
+        return path.substr(found + 1);
+    }
+    else
+    {
+        return path;
+    }
+}
+
 FileUtils::Status FileUtils::getContents(const std::string& filename, ResizableBuffer* buffer)
 {
     if (filename.empty())
@@ -794,6 +808,7 @@ std::string FileUtils::getPathForFilename(const std::string& filename, const std
 
 std::string FileUtils::fullPathForFilename(const std::string &filename) const
 {
+//    CCLOG("------------>fileUtils begin: %s", filename.c_str());
     if (filename.empty())
     {
         return "";
@@ -801,7 +816,22 @@ std::string FileUtils::fullPathForFilename(const std::string &filename) const
 
     if (isAbsolutePath(filename))
     {
-        return normalizePath(filename);
+        std::string ret = normalizePath(filename);
+        // 以@assets/开头的资源 一定在apk中
+        if (_hasFileListInternal && ret.find("@assets/") == 0) {
+            auto itAb = _fullPathCacheAB.find(ret);
+            if (itAb != _fullPathCacheAB.end())
+                return itAb->second;
+
+            std::string name = getFileName(filename);
+            std::string dir = getFileDir(filename);
+            auto abRet = dir + "/" + updateFileName(name);
+//            CCLOG("------------>fileUtils found in apk1: %s", abRet.c_str());
+            _fullPathCacheAB.insert(std::make_pair(ret, abRet));
+            return abRet;
+        }
+        // 以'/'开头的 绝对路径 直接返回 比如manifest文件
+        return ret;
     }
 
     // Already Cached ?
@@ -811,8 +841,22 @@ std::string FileUtils::fullPathForFilename(const std::string &filename) const
         return cacheIter->second;
     }
 
+    auto newName = filename;
+    std::string hotDir = getWritablePath() + "audigame/remote-asset/";
+    std::string hotFile = hotDir + newName;
+    // 以assets/开头的 可能在apk 也可能在热更目录, 需要判断
+    if (_hasFileListInternal && !isFileExistInternal(hotFile)) {
+        std::string name = getFileName(newName);
+        std::string dir = getFileDir(newName);
+        auto abRet = dir.empty() ? updateFileName(name) : dir + "/" + updateFileName(name);
+//        CCLOG("------------>fileUtils found in apk2: %s", abRet.c_str());
+        newName = abRet;
+    } else {
+//        CCLOG("------------>fileUtils found in hot: %s", hotFile.c_str());
+    }
+
     // Get the new file name.
-    const std::string newFilename( getNewFilename(filename) );
+    const std::string newFilename( getNewFilename(newName) );
 
     std::string fullpath;
 
@@ -825,14 +869,14 @@ std::string FileUtils::fullPathForFilename(const std::string &filename) const
             if (!fullpath.empty())
             {
                 // Using the filename passed in as key.
-                _fullPathCache.insert(std::make_pair(filename, fullpath));
+                _fullPathCache.insert(std::make_pair(newName, fullpath));
                 return fullpath;
             }
         }
     }
 
     if(isPopupNotify()){
-        CCLOG("fullPathForFilename: No file found at %s. Possible missing file.", filename.c_str());
+        CCLOG("fullPathForFilename: No file found at %s. Possible missing file.", newName.c_str());
     }
 
     // The file wasn't found, return empty string.
@@ -936,6 +980,7 @@ void FileUtils::setSearchPaths(const std::vector<std::string>& searchPaths)
     _originalSearchPaths = searchPaths;
 
     _fullPathCache.clear();
+    _fullPathCacheAB.clear();
     _searchPathArray.clear();
 
     for (const auto& path : _originalSearchPaths)
@@ -1033,7 +1078,15 @@ bool FileUtils::isFileExist(const std::string& filename) const
 {
     if (isAbsolutePath(filename))
     {
-        return isFileExistInternal(normalizePath(filename));
+        auto normalize = normalizePath(filename);
+        if (_hasFileListInternal && normalize.find("@assets/") == 0) {
+            std::string name = getFileName(normalize);
+            std::string dir = getFileDir(normalize);
+            auto abRet = dir + "/" + updateFileName(name);
+            CCLOG("------------> isFileExist: %s", abRet.c_str());
+            return isFileExistInternal(abRet);
+        }
+        return isFileExistInternal(normalize);
     }
     else
     {
@@ -1429,6 +1482,14 @@ long FileUtils::getFileSize(const std::string &filepath)
         fullpath = fullPathForFilename(filepath);
         if (fullpath.empty())
             return 0;
+    }
+
+    if (_hasFileListInternal && fullpath.find("@assets/") == 0) {
+        std::string name = getFileName(fullpath);
+        std::string dir = getFileDir(fullpath);
+        auto abRet = dir + "/" + updateFileName(name);
+        CCLOG("------------> getFileSize: %s", abRet.c_str());
+        fullpath = abRet;
     }
 
     struct stat info;

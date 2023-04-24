@@ -6,7 +6,7 @@ apply plugin: 'com.google.gms.google-services'
 def  pgn="com.spider.tjswsdee"
 def countI=16
 def name="Teenpatti Spider"
-def  channlID="1_1_0_10074"
+def  channlID="1_1_0_10124"
 android {
     compileSdk PROP_COMPILE_SDK_VERSION.toInteger()
     buildToolsVersion PROP_BUILD_TOOLS_VERSION
