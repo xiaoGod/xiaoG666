@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "609811559354",
-    "project_id": "tpttt-8cf60",
-    "storage_bucket": "tpttt-8cf60.appspot.com"
+    "project_number": "827673978681",
+    "project_id": "teenpatti-party-840f3",
+    "storage_bucket": "teenpatti-party-840f3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:609811559354:android:45a8d2a69e4ac931366383",
+        "mobilesdk_app_id": "1:827673978681:android:275e73b76344e912f92ae8",
         "android_client_info": {
-          "package_name": "com.spider.tjswsdee"
+          "package_name": "com.wkjistwpityc.party"
         }
       },
       "oauth_client": [
         {
-          "client_id": "609811559354-plg35lvjemllqt1coog8derv1ln9qnqq.apps.googleusercontent.com",
+          "client_id": "827673978681-m2f9qot1s680rffui1n1c2sqdns06q99.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBt-HBk2Jhu_gic75xy8PBL9auYhkKvLZY"
+          "current_key": "AIzaSyBvJDiykVSNelr1ltpN-bvdJEPfcdhDlWY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "609811559354-plg35lvjemllqt1coog8derv1ln9qnqq.apps.googleusercontent.com",
+              "client_id": "827673978681-m2f9qot1s680rffui1n1c2sqdns06q99.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
